@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5259807929,
+    "node_id": "PRR_kwDOUh0DDs8AAAABOYJMuQ",
+    "user": {
+      "login": "supportfoculoom",
+      "id": 276860640,
+      "node_id": "U_kgDOEICO4A",
+      "avatar_url": "https://avatars.githubusercontent.com/u/276860640?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/supportfoculoom",
+      "html_url": "https://github.com/supportfoculoom",
+      "followers_url": "https://api.github.com/users/supportfoculoom/followers",
+      "following_url": "https://api.github.com/users/supportfoculoom/following{/other_user}",
+      "gists_url": "https://api.github.com/users/supportfoculoom/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/supportfoculoom/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/supportfoculoom/subscriptions",
+      "organizations_url": "https://api.github.com/users/supportfoculoom/orgs",
+      "repos_url": "https://api.github.com/users/supportfoculoom/repos",
+      "events_url": "https://api.github.com/users/supportfoculoom/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/supportfoculoom/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "body": "## Changes requested\n\n1. The PR updates `main`, but the existing immutable `reusefirst/v1.2.0` tag\n   still contains `CANDIDATE_UNRELEASED` and `publication_approved: false`.\n   The PR therefore does not reconcile the release it claims to reconcile.\n   Either prepare a correctly versioned follow-up release or explicitly scope\n   this PR as metadata for a future release without marking v1.2.0 released.\n\n2. `PROVENANCE.md` asserts factory and product Customer Zero dogfood, but the\n   public repository contains no evidence or reviewable reference for that\n   claim. Add canonical, privacy-safe evidence or keep the claim out of the\n   public provenance.\n\n3. `RELEASE_NOTES.md` labels these changes `v1.2.0` even though that tag already\n   exists and is unchanged. Use a new version/release process, or label this as\n   unreleased main metadata.\n\nNo approval: the current patch leaves the canonical tag and the default branch\nwith contradictory release state.\n",
+    "state": "CHANGES_REQUESTED",
+    "html_url": "https://github.com/edoworks/artifacts/pull/2#pullrequestreview-5259807929",
+    "pull_request_url": "https://api.github.com/repos/edoworks/artifacts/pulls/2",
+    "author_association": "MEMBER",
+    "_links": {
+      "html": {
+        "href": "https://github.com/edoworks/artifacts/pull/2#pullrequestreview-5259807929"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/edoworks/artifacts/pulls/2"
+      }
+    },
+    "submitted_at": "2026-09-20T06:39:32Z",
+    "commit_id": "cc77c30f53a36b6e144bdcbdc1904de9cd585d24"
+  },
+  {
+    "id": 5259813101,
+    "node_id": "PRR_kwDOUh0DDs8AAAABOYJg7Q",
+    "user": {
+      "login": "supportfoculoom",
+      "id": 276860640,
+      "node_id": "U_kgDOEICO4A",
+      "avatar_url": "https://avatars.githubusercontent.com/u/276860640?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/supportfoculoom",
+      "html_url": "https://github.com/supportfoculoom",
+      "followers_url": "https://api.github.com/users/supportfoculoom/followers",
+      "following_url": "https://api.github.com/users/supportfoculoom/following{/other_user}",
+      "gists_url": "https://api.github.com/users/supportfoculoom/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/supportfoculoom/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/supportfoculoom/subscriptions",
+      "organizations_url": "https://api.github.com/users/supportfoculoom/orgs",
+      "repos_url": "https://api.github.com/users/supportfoculoom/repos",
+      "events_url": "https://api.github.com/users/supportfoculoom/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/supportfoculoom/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "body": "",
+    "state": "APPROVED",
+    "html_url": "https://github.com/edoworks/artifacts/pull/2#pullrequestreview-5259813101",
+    "pull_request_url": "https://api.github.com/repos/edoworks/artifacts/pulls/2",
+    "author_association": "MEMBER",
+    "_links": {
+      "html": {
+        "href": "https://github.com/edoworks/artifacts/pull/2#pullrequestreview-5259813101"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/edoworks/artifacts/pulls/2"
+      }
+    },
+    "submitted_at": "2026-09-20T06:42:00Z",
+    "commit_id": "680e0d332ae88652682b0d573567b8c0a7259f05"
+  }
+]

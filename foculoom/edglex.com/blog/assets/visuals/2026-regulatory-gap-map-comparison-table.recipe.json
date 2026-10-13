@@ -1,0 +1,237 @@
+{
+  "schema_version": "0.8.34",
+  "recipe_id": "2026-regulatory-gap-map-comparison-table",
+  "kind": "comparison-table",
+  "canvas": {
+    "width_px": 1200,
+    "height_px": 421,
+    "background_color": "#FFFFFF"
+  },
+  "scene": {
+    "elements": [
+      {
+        "type": "rect",
+        "x": 40,
+        "y": 40,
+        "width": 373,
+        "height": 340,
+        "fill": "#F8FAFC",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3
+      },
+      {
+        "type": "rect",
+        "x": 40,
+        "y": 40,
+        "width": 373,
+        "height": 60,
+        "fill": "#1D4ED8",
+        "opacity": 0.12
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 60,
+        "content": "Four Active Regulatory",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 80,
+        "content": "Gaps",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "rect",
+        "x": 433,
+        "y": 40,
+        "width": 373,
+        "height": 340,
+        "fill": "#F8FAFC",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3
+      },
+      {
+        "type": "rect",
+        "x": 433,
+        "y": 40,
+        "width": 373,
+        "height": 60,
+        "fill": "#1D4ED8",
+        "opacity": 0.12
+      },
+      {
+        "type": "text",
+        "x": 453,
+        "y": 60,
+        "content": "What These Gaps Have",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 453,
+        "y": 80,
+        "content": "in Common",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "rect",
+        "x": 826,
+        "y": 40,
+        "width": 373,
+        "height": 340,
+        "fill": "#F8FAFC",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3
+      },
+      {
+        "type": "rect",
+        "x": 826,
+        "y": 40,
+        "width": 373,
+        "height": 60,
+        "fill": "#1D4ED8",
+        "opacity": 0.12
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 60,
+        "content": "How Long Do Gaps Last?",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 130,
+        "content": "In 2025 and early 2026, a",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 148,
+        "content": "growing number of states",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 166,
+        "content": "enacted or advanced AI",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 184,
+        "content": "regulation legislation:",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 202,
+        "content": "California (SB 1047",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 453,
+        "y": 130,
+        "content": "Each of the four zones above",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 453,
+        "y": 148,
+        "content": "involves a different kind of",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 453,
+        "y": 166,
+        "content": "regulatory gap \u2014 a",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 453,
+        "y": 184,
+        "content": "federal-state collision, a",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 453,
+        "y": 202,
+        "content": "jurisdictional",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 130,
+        "content": "The four gaps above are at",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 148,
+        "content": "different stages of their",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 166,
+        "content": "lifecycle.",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      }
+    ]
+  },
+  "metadata": {
+    "purpose": "visual-learning",
+    "generator": "rendit comparison-table"
+  }
+}

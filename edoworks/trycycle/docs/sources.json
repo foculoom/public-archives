@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-08-20T00:00:00Z",
+  "sources": [
+    {
+      "id": "SRC-001",
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "author": "Jesse Vincent",
+      "classification": "first_party",
+      "note": "Trycycle's planning, execution, and worktree management skills are adapted from superpowers."
+    },
+    {
+      "id": "SRC-002",
+      "name": "StrongDM dark factory approach",
+      "url": "https://github.com/strongdm",
+      "author": "Justin McCarthy, Jay Taylor, Navan Chauhan",
+      "classification": "first_party",
+      "note": "The hill-climbing dark factory approach was inspired by work at StrongDM."
+    },
+    {
+      "id": "SRC-003",
+      "name": "agents.md spec",
+      "url": "https://agents.md",
+      "author": "Linux Foundation / AAIF",
+      "classification": "standard",
+      "note": "Cross-vendor agent policy specification. Trycycle's AGENTS.md follows this convention."
+    }
+  ]
+}

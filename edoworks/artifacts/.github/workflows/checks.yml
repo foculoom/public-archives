@@ -1,0 +1,23 @@
+name: checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  catalog:
+    name: Artifact catalog contract
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run catalog contract tests
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 -m unittest discover -s tests -p 'test_*.py' -v
+      - name: Run ReuseFirst contract tests
+        run: python3 -m unittest discover -s artifacts/reusefirst/tests -p 'test_*.py' -v

@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "document-stack-diagram",
+  "recipe_id": "rule-3-3-ai-candor-document-stack-diagram",
+  "source_article": "rule-3-3-ai-candor.html",
+  "output_sha256": "3f8a5f7eba61c730b023a758228e66efc4e46f37d44389ae3646edad59ae407b",
+  "concepts": [
+    "Rule 3.3(a)(1): The Text and Its Requirements",
+    "The \"Knowingly\" Standard: When Actual Knowledge May Be Inferred From Circumstances",
+    "The Duty to Correct: Rule 3.3(a)(1)'s Second Obligation",
+    "How ABA Formal Opinion 512 Frames Rule 3.3",
+    "The Practical Difference From FRCP Rule 11"
+  ],
+  "content_kind": "legal-case-explainer",
+  "content_kind_source": "meta"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "opencode-rung-plugin",
+  "version": "1.0.0",
+  "description": "Free MIT-licensed opencode plugin — surfaces AI-assisted development governance gaps. Funnel to paid Rung audit at rung.dev.",
+  "license": "MIT",
+  "author": "Foculoom LLC <https://github.com/foculoom>",
+  "homepage": "https://rung.dev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/foculoom/rung-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/foculoom/rung-plugin/issues"
+  },
+  "keywords": [
+    "opencode",
+    "rung",
+    "governance",
+    "agents",
+    "audit",
+    "verification",
+    "ai-coding",
+    "copilot",
+    "cursor",
+    "claude-code"
+  ],
+  "main": "index.ts",
+  "type": "module",
+  "files": [
+    "index.ts",
+    "checks/",
+    "skills/",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "opencode": ">=1.0.0"
+  }
+}

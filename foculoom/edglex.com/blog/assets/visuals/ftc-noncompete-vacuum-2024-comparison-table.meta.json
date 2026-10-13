@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "comparison-table",
+  "recipe_id": "ftc-noncompete-vacuum-2024-comparison-table",
+  "source_article": "ftc-noncompete-vacuum-2024.html",
+  "output_sha256": "26fec5ba75e7224bfe21388c89d4adc9f4bf74ba78c5a67f57ab3ae3b57d67d7",
+  "concepts": [
+    "What the 2024 Rule Proposed",
+    "What the Court Said",
+    "The FTC Abandoned Its Appeals",
+    "What Fills the Gap: State Law",
+    "Practical Implications for Multi-State Employers"
+  ],
+  "content_kind": "threat-intel / patch-advisory",
+  "content_kind_source": "meta"
+}

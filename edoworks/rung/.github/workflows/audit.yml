@@ -1,0 +1,40 @@
+name: Governance Audit
+on: [push, pull_request]
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run Rung governance audit
+        run: |
+          pip install -e .
+          python3 scripts/build_single_file.py --check
+          python3 -m unittest discover -s tests
+          # Rung exits nonzero for any FAIL gate; validate the emitted report below.
+          python3 -m rung --root . --json > audit.json || true
+          SCORE=$(python3 -c "import json; print(json.load(open('audit.json'))['score'])")
+          GRADE=$(python3 -c "import json; print(json.load(open('audit.json'))['grade'])")
+          GATE=$(python3 -c "import json; print(json.load(open('audit.json'))['quality_gate'])")
+          AUTHORITY=$(python3 -c "import json; print(json.load(open('audit.json'))['authority'])")
+          echo "Governance score: $SCORE/100, Grade: $GRADE, Gate: $GATE"
+          if ! python3 -c "import json, sys; report=json.load(open('audit.json')); failed=[check for check in report['checks'] if check['blocking'] and not check['passed']]; allowed=not failed or (report['authority'] == 'owner_evidence_required' and len(failed) == 1 and failed[0]['name'] == 'Verification gate' and failed[0]['state'] == 'unobservable'); sys.exit(0 if allowed else 1)"; then
+            echo "::error::Unexpected failed blocking governance check"
+            exit 1
+          fi
+          if [ "$GATE" != "PASS" ]; then
+            if [ "$AUTHORITY" = "owner_evidence_required" ]; then
+              echo "::warning::Governance gate is $GATE; owner_evidence_required is needed because enforcement is unobservable"
+            else
+              echo "::error::Governance quality gate failed with authority $AUTHORITY"
+              exit 1
+            fi
+          fi
+      - name: Upload audit results
+        uses: actions/upload-artifact@v4
+        with:
+          name: governance-audit
+          path: audit.json

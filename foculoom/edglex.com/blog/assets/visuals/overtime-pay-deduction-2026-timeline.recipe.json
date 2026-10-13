@@ -1,0 +1,216 @@
+{
+  "schema_version": "0.8.34",
+  "recipe_id": "overtime-pay-deduction-2026-timeline",
+  "kind": "timeline",
+  "canvas": {
+    "width_px": 1200,
+    "height_px": 421,
+    "background_color": "#FFFFFF"
+  },
+  "scene": {
+    "elements": [
+      {
+        "type": "line",
+        "x1": 150,
+        "y1": 210,
+        "x2": 1050,
+        "y2": 210,
+        "stroke": "#1D4ED8",
+        "stroke_width": 6
+      },
+      {
+        "type": "circle",
+        "cx": 250,
+        "cy": 210,
+        "r": 28,
+        "fill": "#1D4ED8",
+        "stroke": "#FFFFFF",
+        "stroke_width": 4
+      },
+      {
+        "type": "circle",
+        "cx": 600,
+        "cy": 210,
+        "r": 28,
+        "fill": "#1D4ED8",
+        "stroke": "#FFFFFF",
+        "stroke_width": 4
+      },
+      {
+        "type": "circle",
+        "cx": 950,
+        "cy": 210,
+        "r": 28,
+        "fill": "#1D4ED8",
+        "stroke": "#FFFFFF",
+        "stroke_width": 4
+      },
+      {
+        "type": "text",
+        "x": 200,
+        "y": 140,
+        "content": "What the IRS Says the",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 200,
+        "y": 160,
+        "content": "Deduction Covers",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 550,
+        "y": 140,
+        "content": "The Cap and Phaseout",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 550,
+        "y": 160,
+        "content": "Thresholds",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 900,
+        "y": 140,
+        "content": "Who Qualifies \u2014 and",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 900,
+        "y": 160,
+        "content": "Who Does Not",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 255,
+        "content": "According to IRS guidance,",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 271,
+        "content": "individuals may deduct qualified",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 287,
+        "content": "overtime compensation \u2014",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 303,
+        "content": "specifically, \"the pay that",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 319,
+        "content": "exceeds",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 255,
+        "content": "Maximum deduction: $12,500 per",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 271,
+        "content": "year for single filers.",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 255,
+        "content": "The deduction is available to",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 271,
+        "content": "workers who receive",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 287,
+        "content": "FLSA-required overtime, plus",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 303,
+        "content": "equivalent overtime pay under",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 319,
+        "content": "comparable",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      }
+    ]
+  },
+  "metadata": {
+    "purpose": "visual-learning",
+    "generator": "rendit timeline"
+  }
+}

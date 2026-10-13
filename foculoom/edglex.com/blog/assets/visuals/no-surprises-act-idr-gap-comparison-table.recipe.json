@@ -1,0 +1,246 @@
+{
+  "schema_version": "0.8.34",
+  "recipe_id": "no-surprises-act-idr-gap-comparison-table",
+  "kind": "comparison-table",
+  "canvas": {
+    "width_px": 1200,
+    "height_px": 421,
+    "background_color": "#FFFFFF"
+  },
+  "scene": {
+    "elements": [
+      {
+        "type": "rect",
+        "x": 40,
+        "y": 40,
+        "width": 373,
+        "height": 340,
+        "fill": "#F8FAFC",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3
+      },
+      {
+        "type": "rect",
+        "x": 40,
+        "y": 40,
+        "width": 373,
+        "height": 60,
+        "fill": "#1D4ED8",
+        "opacity": 0.12
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 60,
+        "content": "What the No Surprises",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 80,
+        "content": "Act Requires",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "rect",
+        "x": 433,
+        "y": 40,
+        "width": 373,
+        "height": 340,
+        "fill": "#F8FAFC",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3
+      },
+      {
+        "type": "rect",
+        "x": 433,
+        "y": 40,
+        "width": 373,
+        "height": 60,
+        "fill": "#1D4ED8",
+        "opacity": 0.12
+      },
+      {
+        "type": "text",
+        "x": 453,
+        "y": 60,
+        "content": "What the Agencies Did",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 453,
+        "y": 80,
+        "content": "\u2014 and What the Courts\u2026",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "rect",
+        "x": 826,
+        "y": 40,
+        "width": 373,
+        "height": 340,
+        "fill": "#F8FAFC",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3
+      },
+      {
+        "type": "rect",
+        "x": 826,
+        "y": 40,
+        "width": 373,
+        "height": 60,
+        "fill": "#1D4ED8",
+        "opacity": 0.12
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 60,
+        "content": "What Fills the Gap:",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 80,
+        "content": "Enforcement\u2026",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 130,
+        "content": "The No Surprises Act was",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 148,
+        "content": "enacted as Division BB, Title",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 166,
+        "content": "I of the Consolidated",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 184,
+        "content": "Appropriations Act, 2021, Pub.",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 453,
+        "y": 130,
+        "content": "Implementing regulations for",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 453,
+        "y": 148,
+        "content": "the IDR process were issued",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 453,
+        "y": 166,
+        "content": "jointly by HHS, DOL, and",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 453,
+        "y": 184,
+        "content": "Treasury.",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 130,
+        "content": "After the vacaturs, HHS, DOL,",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 148,
+        "content": "and Treasury issued FAQ",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 166,
+        "content": "guidance (including FAQ Parts",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 184,
+        "content": "62 and 69 under the ACA/CAA",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 202,
+        "content": "series)",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      }
+    ]
+  },
+  "metadata": {
+    "purpose": "visual-learning",
+    "generator": "rendit comparison-table"
+  }
+}

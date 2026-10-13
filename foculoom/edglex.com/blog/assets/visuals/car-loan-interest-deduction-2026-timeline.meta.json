@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "timeline",
+  "recipe_id": "car-loan-interest-deduction-2026-timeline",
+  "source_article": "car-loan-interest-deduction-2026.html",
+  "output_sha256": "edd823a468155d8c83b7537b2f039febe5838f417f2923138c262ae188edd29b",
+  "concepts": [
+    "What the Deduction Covers",
+    "The Core Eligibility Requirements",
+    "Why This Provision Gets Missed",
+    "What to Do If You Purchased a New Vehicle in 2025 or 2026",
+    "References & Sources"
+  ],
+  "content_kind": "legal-deadline / statutory-change",
+  "content_kind_source": "meta"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "comparison-table",
+  "recipe_id": "osha-heat-standard-gap-comparison-table",
+  "source_article": "osha-heat-standard-gap.html",
+  "output_sha256": "12fc3a6a1b3c2791d301d38db4cce8ae4b5c8bd988134a1d0606b60e9aa1d1f2",
+  "concepts": [
+    "The General Duty Clause: What It Says and What It Cannot Do",
+    "What the 2024 NPRM Proposes",
+    "State Plan States vs. Federal OSHA Jurisdiction",
+    "Practical Implications of the Gap",
+    "References & Sources"
+  ],
+  "content_kind": "regulatory-gap / compliance-gap",
+  "content_kind_source": "meta"
+}

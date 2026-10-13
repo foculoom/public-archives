@@ -1,0 +1,195 @@
+{
+  "schema_version": "0.8.34",
+  "recipe_id": "rule-3-3-ai-candor-document-stack-diagram",
+  "kind": "document-stack-diagram",
+  "canvas": {
+    "width_px": 1200,
+    "height_px": 421,
+    "background_color": "#FFFFFF"
+  },
+  "scene": {
+    "elements": [
+      {
+        "type": "rect",
+        "x": 400,
+        "y": 60,
+        "width": 400,
+        "height": 80,
+        "fill": "#F8FAFC",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3,
+        "rx": 8
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 95,
+        "content": "Rule 3.3(a)(1): The",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 115,
+        "content": "Text and Its\u2026",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 120,
+        "content": "ABA Model Rule 3.3(a)(1)",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 134,
+        "content": "provides that a lawyer shall not",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 148,
+        "content": "knowingly make a false statement",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 162,
+        "content": "of fact or law to a",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "rect",
+        "x": 380,
+        "y": 160,
+        "width": 400,
+        "height": 80,
+        "fill": "#F1F5F9",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3,
+        "rx": 8
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 195,
+        "content": "The \"Knowingly\"",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 215,
+        "content": "Standard: When Actual\u2026",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 220,
+        "content": "Rule 3.3(a)(1) requires actual",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 234,
+        "content": "knowledge, not mere negligence.",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "rect",
+        "x": 360,
+        "y": 260,
+        "width": 400,
+        "height": 80,
+        "fill": "#E2E8F0",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3,
+        "rx": 8
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 295,
+        "content": "The Duty to Correct:",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 315,
+        "content": "Rule 3.3(a)(1)'s\u2026",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 320,
+        "content": "Rule 3.3(a)(1) also imposes a",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 334,
+        "content": "duty to correct false statements",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 348,
+        "content": "of law previously made to the",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 362,
+        "content": "tribunal.",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      }
+    ]
+  },
+  "metadata": {
+    "purpose": "visual-learning",
+    "generator": "rendit document-stack-diagram"
+  }
+}

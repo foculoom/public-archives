@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "comparison-table",
+  "recipe_id": "missed-deadline-file-free-comparison-table",
+  "source_article": "missed-deadline-file-free.html",
+  "output_sha256": "ffcf8c6aee280969327b7ea9e1440ff9968acccbfb0c2e72192e3dfbde791910",
+  "concepts": [
+    "What Changed on June 2",
+    "Who Can Use Free File Right Now",
+    "Why This Is Especially Relevant for 2025 Returns",
+    "Checklist Before You File Late",
+    "The Real \"Loophole\" Is Procedural"
+  ],
+  "content_kind": "unknown (kind override)",
+  "content_kind_source": "override"
+}

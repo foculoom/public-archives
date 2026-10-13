@@ -1,0 +1,42 @@
+{
+  "name": "rung",
+  "metadata": {
+    "description": "Rung governance-check plugin — surface AI-assisted development governance gaps in your repo",
+    "version": "1.0.0",
+    "install": "Add \"opencode-rung-plugin\" to your opencode.json plugin array. See README.md for details."
+  },
+  "owner": {
+    "name": "Foculoom LLC",
+    "url": "https://github.com/foculoom"
+  },
+  "plugins": [
+    {
+      "name": "opencode-rung-plugin",
+      "source": {
+        "source": "npm",
+        "package": "opencode-rung-plugin"
+      },
+      "description": "Free governance check for AI-assisted development repos. Surfaces gaps in agent boundaries, requirements workflow, local verification, and session evidence. Funnel to paid Rung audit at rung.dev.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Foculoom LLC",
+        "url": "https://github.com/foculoom"
+      },
+      "repository": "https://github.com/foculoom/rung-plugin",
+      "homepage": "https://rung.dev",
+      "license": "MIT",
+      "keywords": [
+        "rung",
+        "opencode",
+        "governance",
+        "agents",
+        "audit",
+        "verification",
+        "ai-coding",
+        "copilot",
+        "cursor",
+        "claude-code"
+      ]
+    }
+  ]
+}

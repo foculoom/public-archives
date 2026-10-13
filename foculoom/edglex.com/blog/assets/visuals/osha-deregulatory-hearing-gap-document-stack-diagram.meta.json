@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "document-stack-diagram",
+  "recipe_id": "osha-deregulatory-hearing-gap-document-stack-diagram",
+  "source_article": "osha-deregulatory-hearing-gap.html",
+  "output_sha256": "83cd4bfc22d18ac10e41df8910662866f9a45bdbadc3e09db86fb86de3334b71",
+  "concepts": [
+    "Why this specific hearing cycle matters",
+    "The practical risk map",
+    "Why this is a classic law-gaps case",
+    "References & Sources"
+  ],
+  "content_kind": "legal-case-explainer",
+  "content_kind_source": "meta"
+}

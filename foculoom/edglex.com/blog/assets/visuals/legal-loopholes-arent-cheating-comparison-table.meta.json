@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "comparison-table",
+  "recipe_id": "legal-loopholes-arent-cheating-comparison-table",
+  "source_article": "legal-loopholes-arent-cheating.html",
+  "output_sha256": "ce32eb5d247a3e040b728ee0f5cec2eda034ef132372d019ab1a571af306ea28",
+  "concepts": [
+    "How Loopholes Are Born",
+    "Four Real Loopholes You May Already Qualify For",
+    "Why These Provisions Still Exist",
+    "The Access Problem",
+    "Find Your Provisions"
+  ],
+  "content_kind": "unknown (kind override)",
+  "content_kind_source": "override"
+}

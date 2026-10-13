@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "timeline",
+  "recipe_id": "standard-deduction-2026-adjustments-timeline",
+  "source_article": "standard-deduction-2026-adjustments.html",
+  "output_sha256": "7a6e0d814e6321a89e45134f03ee561f195b327de8ef53c379dcbc7ad31d3ad5",
+  "concepts": [
+    "The Standard Deduction for 2026",
+    "Other Key Figures for 2026 From Revenue Procedure 2025-32",
+    "What the Marginal Rate Thresholds Mean",
+    "Where to Find the Full Table",
+    "References & Sources"
+  ],
+  "content_kind": "legal-deadline / statutory-change",
+  "content_kind_source": "meta"
+}

@@ -1,0 +1,228 @@
+{
+  "schema_version": "0.8.34",
+  "recipe_id": "missed-deadline-file-free-comparison-table",
+  "kind": "comparison-table",
+  "canvas": {
+    "width_px": 1200,
+    "height_px": 421,
+    "background_color": "#FFFFFF"
+  },
+  "scene": {
+    "elements": [
+      {
+        "type": "rect",
+        "x": 40,
+        "y": 40,
+        "width": 373,
+        "height": 340,
+        "fill": "#F8FAFC",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3
+      },
+      {
+        "type": "rect",
+        "x": 40,
+        "y": 40,
+        "width": 373,
+        "height": 60,
+        "fill": "#1D4ED8",
+        "opacity": 0.12
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 60,
+        "content": "What Changed on June 2",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "rect",
+        "x": 433,
+        "y": 40,
+        "width": 373,
+        "height": 340,
+        "fill": "#F8FAFC",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3
+      },
+      {
+        "type": "rect",
+        "x": 433,
+        "y": 40,
+        "width": 373,
+        "height": 60,
+        "fill": "#1D4ED8",
+        "opacity": 0.12
+      },
+      {
+        "type": "text",
+        "x": 453,
+        "y": 60,
+        "content": "Who Can Use Free File",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 453,
+        "y": 80,
+        "content": "Right Now",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "rect",
+        "x": 826,
+        "y": 40,
+        "width": 373,
+        "height": 340,
+        "fill": "#F8FAFC",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3
+      },
+      {
+        "type": "rect",
+        "x": 826,
+        "y": 40,
+        "width": 373,
+        "height": 60,
+        "fill": "#1D4ED8",
+        "opacity": 0.12
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 60,
+        "content": "Why This Is Especially",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 80,
+        "content": "Relevant for 2025\u2026",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 130,
+        "content": "In IR-2026-71 (June 2, 2026),",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 148,
+        "content": "the IRS states that taxpayers",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 166,
+        "content": "who missed the filing deadline",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 184,
+        "content": "can still file their 2025",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 453,
+        "y": 130,
+        "content": "On IRS.gov, the Free File page",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 453,
+        "y": 148,
+        "content": "says taxpayers with adjusted",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 453,
+        "y": 166,
+        "content": "gross income of $89,000 or",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 453,
+        "y": 184,
+        "content": "less can use guided partner",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 130,
+        "content": "Tax year 2025 introduced new",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 148,
+        "content": "\"Additional Deductions\"",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 166,
+        "content": "reporting through Schedule",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 184,
+        "content": "1-A.",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      }
+    ]
+  },
+  "metadata": {
+    "purpose": "visual-learning",
+    "generator": "rendit comparison-table"
+  }
+}

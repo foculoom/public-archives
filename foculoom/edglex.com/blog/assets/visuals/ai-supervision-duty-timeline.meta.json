@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "timeline",
+  "recipe_id": "ai-supervision-duty-timeline",
+  "source_article": "ai-supervision-duty.html",
+  "output_sha256": "c62c81315c1adb05d38447bab9720f3b9e076c5784d1b700350dadee2ca06dc0",
+  "concepts": [
+    "Why This Is Bigger Than Rule 11 Alone",
+    "A Recent Court Signal: Referral Can Matter More Than the Fine",
+    "What a Real AI-Supervision Protocol Looks Like",
+    "The Better Product Standard",
+    "References & Sources"
+  ],
+  "content_kind": "legal-deadline / statutory-change",
+  "content_kind_source": "meta"
+}

@@ -1,0 +1,8 @@
+.worktrees
+build/trycycle-explorer/
+orchestrator/user-request-transcript/__pycache__/
+__pycache__/
+**/__pycache__/
+.superpowers/
+session-*.zip
+.opencode/opencode.json

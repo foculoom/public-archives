@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "comparison-table",
+  "recipe_id": "fre-901-ai-authentication-comparison-table",
+  "source_article": "fre-901-ai-authentication.html",
+  "output_sha256": "02312a67fcc0d3038987b82986e27d69a40a26299bc8cb17e8a256a4d25f9ce5",
+  "concepts": [
+    "FRE 901(a): The General Standard",
+    "FRE 901(b)(9): Evidence About a Process or System",
+    "Three Contexts Where This Analysis Applies",
+    "FRE 1002 and the Original Document Rule",
+    "Practical Implications for Practitioners Using AI Tools"
+  ],
+  "content_kind": "unknown (kind override)",
+  "content_kind_source": "override"
+}

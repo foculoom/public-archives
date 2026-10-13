@@ -1,0 +1,36 @@
+# Factory North Star (template)
+
+> Copy into your factory's repo root and fill the bracketed placeholders.
+
+**Mission:** Ship verified [product-class, e.g. mobile/desktop] apps while maximizing **verified human value per unit of human attention, risk, and cost** — not autonomy, factory sophistication, or code volume.
+
+**Optimization hierarchy (higher outranks lower):**
+1. Human welfare & authority (humans final; factory never expands its own permissions)
+2. Privacy & security (least-privilege credentials; no leaked secrets)
+3. Correctness (deterministic verification outranks AI confidence)
+4. Useful products shipped
+5. Maintainability (code survives agent/harness change)
+6. Human attention saved
+7. Community/open-source value (deliberate, never rushed)
+8. Cost & latency (secondary to correctness)
+9. Factory sophistication (lowest; earn each piece)
+
+**Immutable without owner re-authorization:**
+- Human is final authority
+- Factory cannot expand its own permissions, weaken safety policy, or change repo visibility
+- No autonomous deployment, purchase, release, or repo deletion
+- No sensitive data to unapproved cloud; least-privilege credentials
+- Shutdown/interrupt always available to owner
+- Irreversible external actions require human approval
+
+**Learnable later (only after measured evidence):** model/harness selection, context retrieval, retry strategy, budget allocation inside owner set envelope.
+
+**Entropy discipline:**
+- Every persistent artifact pays rent.
+- Steady state factory engineering ≤ 10% of product effort.
+- Freeze factory improvements if 7 days pass without a usable product build.
+- New factory automation requires the same friction ≥3 times OR an active blocker.
+- Prefer delete > consolidate > platform capability > generate > reference > summarize > add abstraction.
+
+**Bypass invariant (never violate):**
+A developer can always clone the repo, open the product, run `./scripts/verify.sh`, and continue WITHOUT any factory orchestrator/agent. If a change would break this, reject it.

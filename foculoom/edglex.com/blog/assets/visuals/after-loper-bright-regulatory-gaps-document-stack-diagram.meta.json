@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "document-stack-diagram",
+  "recipe_id": "after-loper-bright-regulatory-gaps-document-stack-diagram",
+  "source_article": "after-loper-bright-regulatory-gaps.html",
+  "output_sha256": "77e2783520c5068dfff01630f73e69b62a099293c5ad8ed1801bd175f03fca67",
+  "concepts": [
+    "Two Doctrines, One Structural Shift",
+    "How Gaps Form in the New Landscape",
+    "The AI Regulation Case Study",
+    "What This Means for Compliance Strategy",
+    "References & Sources"
+  ],
+  "content_kind": "legal-case-explainer",
+  "content_kind_source": "meta"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "comparison-table",
+  "recipe_id": "circuit-split-ai-sanctions-comparison-table",
+  "source_article": "circuit-split-ai-sanctions.html",
+  "output_sha256": "5829feb6e585dabf649a873bff84b791ca479b917f3728d60150c7372dac5230",
+  "concepts": [
+    "The Scale of the Problem in 2026",
+    "Three Cases That Define the Current Landscape",
+    "What the Split Tells Us About Sanctionable Conduct",
+    "What ABA Formal Opinion 512 Adds",
+    "The Practical Implication for Attorneys Using AI Research Tools"
+  ],
+  "content_kind": "unknown (kind override)",
+  "content_kind_source": "override"
+}

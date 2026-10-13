@@ -1,0 +1,219 @@
+{
+  "schema_version": "0.8.34",
+  "recipe_id": "courts-sanctioning-ai-citations-comparison-table",
+  "kind": "comparison-table",
+  "canvas": {
+    "width_px": 1200,
+    "height_px": 421,
+    "background_color": "#FFFFFF"
+  },
+  "scene": {
+    "elements": [
+      {
+        "type": "rect",
+        "x": 40,
+        "y": 40,
+        "width": 373,
+        "height": 340,
+        "fill": "#F8FAFC",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3
+      },
+      {
+        "type": "rect",
+        "x": 40,
+        "y": 40,
+        "width": 373,
+        "height": 60,
+        "fill": "#1D4ED8",
+        "opacity": 0.12
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 60,
+        "content": "What the Sanctions",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 80,
+        "content": "Actually Require",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "rect",
+        "x": 433,
+        "y": 40,
+        "width": 373,
+        "height": 340,
+        "fill": "#F8FAFC",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3
+      },
+      {
+        "type": "rect",
+        "x": 433,
+        "y": 40,
+        "width": 373,
+        "height": 60,
+        "fill": "#1D4ED8",
+        "opacity": 0.12
+      },
+      {
+        "type": "text",
+        "x": 453,
+        "y": 60,
+        "content": "The Overconfidence",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 453,
+        "y": 80,
+        "content": "Problem",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "rect",
+        "x": 826,
+        "y": 40,
+        "width": 373,
+        "height": 340,
+        "fill": "#F8FAFC",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3
+      },
+      {
+        "type": "rect",
+        "x": 826,
+        "y": 40,
+        "width": 373,
+        "height": 60,
+        "fill": "#1D4ED8",
+        "opacity": 0.12
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 60,
+        "content": "Attorney-Client",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 80,
+        "content": "Privilege and\u2026",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 130,
+        "content": "The courts issuing sanctions",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 148,
+        "content": "are not prohibiting",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 60,
+        "y": 166,
+        "content": "AI-assisted legal research.",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 453,
+        "y": 130,
+        "content": "Most AI systems are trained to",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 453,
+        "y": 148,
+        "content": "produce answers.",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 130,
+        "content": "A separate, less-discussed",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 148,
+        "content": "issue the sanctions pattern",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 166,
+        "content": "raises is what happens to",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 184,
+        "content": "attorney-client privilege when",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 846,
+        "y": 202,
+        "content": "legal",
+        "font_size": 14,
+        "fill": "#1F2937",
+        "font_weight": 400
+      }
+    ]
+  },
+  "metadata": {
+    "purpose": "visual-learning",
+    "generator": "rendit comparison-table"
+  }
+}

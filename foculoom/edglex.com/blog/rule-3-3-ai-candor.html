@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta name="content_kind" content="legal-case-explainer">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="generator" content="Edoworks 202607291851.0">
+  <title>ABA Rule 3.3 and AI Citations: What "Knowingly" Means When Your Research Comes From a Language Model — Edglex</title>
+  <meta name="description" content="ABA Model Rule 3.3(a)(1) prohibits an attorney from knowingly making a false statement of law to a tribunal. When AI generates a hallucinated citation and the attorney files it, the 'knowing' standard is more complicated than it appears.">
+  <link rel="canonical" href="https://edglex.com/blog/rule-3-3-ai-candor.html">
+    <style>
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#fff;color:#111827;line-height:1.6;min-height:100vh}
+    a{color:#4338ca;text-decoration:none} a:hover{color:#3730a3;text-decoration:underline}
+    nav{background:#fff;border-bottom:1px solid #e2e8f0;padding:.875rem 1.5rem;display:flex;align-items:center;gap:1.5rem;flex-wrap:wrap}
+    nav .brand{font-family:Georgia,"Times New Roman",serif;font-weight:700;font-size:1rem;color:#1a202c;letter-spacing:-.01em;margin-right:auto}
+    nav .brand:hover{text-decoration:none;color:#4338ca}
+    nav .sep{color:#cbd5e1} nav .back{font-size:.875rem;color:#4a5568;font-weight:500} nav .back:hover{color:#4338ca;text-decoration:none}
+    .nav-links{display:flex;gap:1.25rem;flex-wrap:wrap}
+    .nav-links a{font-size:.875rem;color:#4a5568;font-weight:500}
+    .nav-links a:hover{color:#4338ca;text-decoration:none}
+    main{max-width:720px;margin:0 auto;padding:3rem 1.5rem 4rem}
+    .post-header{margin-bottom:2.5rem}
+    .byline{font-size:.8125rem;color:#6b7280;text-transform:uppercase;letter-spacing:.06em;margin-bottom:1rem;display:flex;align-items:center;gap:.75rem}
+    .byline-dot{color:#d1d5db}
+    h1{font-size:2rem;font-weight:700;letter-spacing:-.025em;line-height:1.25;margin-bottom:1rem}
+    .lead{font-size:1.125rem;color:#374151;line-height:1.65;border-left:3px solid #4338ca;padding-left:1.25rem;margin-bottom:2rem}
+    h2{font-size:1.25rem;font-weight:600;color:#1a202c;margin:2.25rem 0 .75rem;letter-spacing:-.01em}
+    p{margin-bottom:1.25rem;color:#374151} p:last-child{margin-bottom:0} footer p{color:inherit;margin:0}
+    ul{margin:1rem 0 1.5rem 1.5rem} ul li{margin-bottom:.5rem;color:#374151}
+    ol{margin:.5rem 0 1rem 1.5rem} li{font-size:.9375rem;color:#374151;margin-bottom:.375rem}
+    .highlight{background:#eef2ff;border:1px solid #c7d2fe;border-left:3px solid #4338ca;border-radius:8px;padding:1.25rem 1.5rem;margin:1.5rem 0}
+    .highlight-title{font-size:.75rem;text-transform:uppercase;letter-spacing:.08em;color:#4338ca;font-weight:600;margin-bottom:.5rem}
+    .highlight p{color:#374151;margin-bottom:0;font-size:.9375rem}
+    table{width:100%;border-collapse:collapse;margin:1.5rem 0;font-size:.9375rem}
+    th,td{text-align:left;padding:.625rem .75rem;border-bottom:1px solid #e5e7eb}
+    th{background:#f9fafb;font-weight:600;color:#111827;font-size:.8125rem;text-transform:uppercase;letter-spacing:.04em}
+    td{color:#374151} tr:last-child td{border-bottom:none}
+    .footnote{font-size:.8125rem;color:#6b7280;margin-top:1.5rem;padding-top:1rem;border-top:1px solid #e5e7eb}
+    footer{border-top:1px solid #e5e7eb;padding:2rem 1.5rem;text-align:center;font-size:.875rem;color:#6b7280}
+    footer a{color:#4338ca}
+  </style>
+</head>
+<body>
+    <nav aria-label="Site navigation">
+    <a href="/" class="brand">Edglex</a>
+    <span class="sep">/</span>
+    <a href="/blog/" class="back">&larr; Blog</a>
+    <div class="nav-links">
+      <a href="/support/">Support</a>
+      <a href="/privacy/">Privacy</a>
+      <a href="/terms/">Terms</a>
+    </div>
+  </nav>
+
+  <article data-pagefind-body>
+    <header class="post-header">
+      <div class="byline">
+        <span>Edglex Research</span>
+        <span class="byline-dot">·</span>
+        <time datetime="2026-06-09">June 9, 2026</time>
+      </div>
+      <h1>ABA Rule 3.3 and AI Citations: What "Knowingly" Means When Your Research Comes From a Language Model</h1>
+      <p class="lead">
+        ABA Model Rule 3.3(a)(1) forbids an attorney from knowingly making a false statement of law to a tribunal.
+        The standard is "knowing," not negligent — but when an AI tool generates fabricated authority that the
+        attorney files without checking, the line between ignorance and actual knowledge — which Rule 1.0(f) permits
+        to be inferred from circumstances — is thinner than most practitioners realize.
+      </p>
+    </header>
+    <figure class="visual-learning-map" data-visual-learning="rendit-document-stack-diagram">
+      <img src="/blog/assets/visuals/rule-3-3-ai-candor-document-stack-diagram.svg" alt="document-stack-diagram diagram for ABA Rule 3.3 and AI Citations: What &quot;Knowingly&quot; Means When Your Research Comes From a Language Model: Rule 3.3(a)(1): The Text and Its R, The &quot;Knowingly&quot; Standard: When Act, The Duty to Correct: Rule 3.3(a)(1" width="1200" height="420" loading="lazy" data-rendit-meta="/blog/assets/visuals/rule-3-3-ai-candor-document-stack-diagram.meta.json" style="display:block;width:100%;height:auto">
+      <figcaption>Document Stack Diagram: Rule 3.3(a)(1): The Text and Its R → The &quot;Knowingly&quot; Standard: When Act → The Duty to Correct: Rule 3.3(a)(1</figcaption>
+    </figure>
+
+
+    <p>Most of the legal discussion around AI hallucinations and attorney sanctions has focused on Federal Rule of Civil Procedure 11. That focus is understandable — Rule 11 has been the vehicle for most of the sanctions orders that have made headlines, and its "reasonable inquiry" standard is an objective test that does not require proving intent. But running parallel to Rule 11 is a separate obligation that receives less attention: ABA Model Rule 3.3(a)(1), the candor-to-tribunal provision, which requires a different mental state — actual knowledge — and carries different consequences.</p>
+
+    <p>Understanding Rule 3.3's "knowing" standard in the AI context matters because the two frameworks diverge in important ways. An attorney can violate FRCP Rule 11 without subjective bad faith — the test is objective reasonableness, and a sincerely held but unreasonable belief about a citation's accuracy is still a Rule 11 violation. Rule 3.3(a)(1), by contrast, requires that the attorney knew the statement was false. What "knowing" means when the attorney never verified whether the AI-generated citation was real is a question that remains under-analyzed, and the answer is more complex than it first appears.</p>
+
+    <h2>Rule 3.3(a)(1): The Text and Its Requirements</h2>
+
+    <p>ABA Model Rule 3.3(a)(1) provides that a lawyer shall not knowingly make a false statement of fact or law to a tribunal, or fail to correct a false statement of material fact or law previously made to the tribunal by the lawyer. The rule contains two distinct obligations: a prohibition on affirmatively making false statements, and an ongoing duty to correct false statements previously made. Both obligations apply to legal authority, not just factual assertions.</p>
+
+    <div class="example">
+      <div class="example-title">ABA Model Rule 3.3(a)(1) — Candor Toward the Tribunal</div>
+      <p>"A lawyer shall not knowingly: (1) make a false statement of fact or law to a tribunal or fail to correct a false statement of material fact or law previously made to the tribunal by the lawyer…"<br><br>
+      <strong>Source:</strong> ABA Model Rules of Professional Conduct, Rule 3.3(a)(1). See <a href="https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_3_3_candor_toward_the_tribunal/" target="_blank" rel="noopener">americanbar.org/…/rule_3_3_candor_toward_the_tribunal/</a>.</p>
+    </div>
+
+    <p>The ABA Model Rules define "knowingly" in Rule 1.0(f): "Knowingly," when used in reference to a lawyer's conduct, denotes actual knowledge of the fact in question. A person's knowledge may be inferred from circumstances. That final sentence — "knowledge may be inferred from circumstances" — is where the AI context raises the most significant interpretive question.</p>
+
+    <h2>The "Knowingly" Standard: When Actual Knowledge May Be Inferred From Circumstances</h2>
+
+    <p>Rule 3.3(a)(1) requires actual knowledge, not mere negligence. An attorney who genuinely did not know that an AI-generated citation was fabricated has not "knowingly" made a false statement in the traditional sense. That is why Rule 3.3 sanctions are much rarer than Rule 11 sanctions in the AI-hallucination cases that have emerged — it is harder to establish that an attorney knew the citation was false when the attorney believed, however unreasonably, that the citation was real.</p>
+
+    <p>But the definition of "knowingly" includes the critical qualification that knowledge may be inferred from circumstances. It is this inference of actual knowledge from circumstances — not a lower negligence standard — that makes the Rule 3.3 analysis more difficult for attorneys who use AI tools without adequate verification practices. The relevant circumstances may include:</p>
+
+    <div class="example">
+      <div class="example-title">Circumstances From Which Actual Knowledge May Be Inferred Under Rule 3.3</div>
+      <p><strong>Notice of hallucination risk:</strong> Widespread publicity about AI hallucination in legal research puts practitioners on notice that AI tools generate fabricated citations. An attorney who used an AI tool after this risk became widely known, without verifying the output, had circumstantial notice of the specific failure mode that occurred — a fact relevant to whether actual knowledge can be inferred.<br><br>
+      <strong>Implausible citations:</strong> An AI-generated citation to a case with an unusual reporter, an improbably round docket number, or a description that does not match the cited court's jurisdiction may have appeared unreliable on its face. Failure to investigate a citation that should have prompted inquiry supports a stronger inference of actual knowledge than failure to investigate one that appeared entirely normal.<br><br>
+      <strong>Prior sanctions or warnings:</strong> An attorney who has previously been sanctioned or warned for failing to verify AI-generated citations, and who repeats the conduct in a subsequent matter, faces a much stronger inference of knowledge than one who makes the same error for the first time.<br><br>
+      <strong>Pattern of unverified AI citations:</strong> Multiple AI-generated citations in a single filing, none independently verified, may support an inference that the attorney knew, or was willfully blind to, the possibility that some of them were false.</p>
+    </div>
+
+    <p>These circumstances bear on whether actual knowledge can be inferred — they do not substitute negligence for knowledge. An attorney who genuinely did not know a citation was false, and where no reasonable inference of knowledge arises from the circumstances, has not violated Rule 3.3(a)(1), even if that attorney was negligent in failing to verify. Negligence is the domain of FRCP Rule 11, not Rule 3.3.</p>
+
+    <p>Willful blindness — deliberately avoiding knowledge of a fact — is treated as equivalent to actual knowledge in most legal contexts. An attorney who has been put on notice of AI hallucination risk, understands that AI tools fabricate citations, and deliberately skips verification to save time is not meaningfully different, in terms of culpability, from an attorney who knows a citation is false. Whether bar disciplinary authorities and courts will apply the willful-blindness doctrine in AI hallucination cases is an open question, but the doctrinal framework supports it.</p>
+
+    <h2>The Duty to Correct: Rule 3.3(a)(1)'s Second Obligation</h2>
+
+    <p>Rule 3.3(a)(1) also imposes a duty to correct false statements of law previously made to the tribunal. This obligation is ongoing — it does not expire when a brief is filed. If an attorney discovers, after filing, that an AI-generated citation was fabricated, Rule 3.3(a)(1) requires the attorney to correct that false statement. The correction must be made regardless of whether the false statement affected the outcome, and regardless of whether opposing counsel noticed the error.</p>
+
+    <p>The correction obligation is one of the most practically significant aspects of Rule 3.3 in the AI context. An attorney whose AI-generated brief contained fabricated citations and who discovers the fabrication post-filing faces a clear professional obligation: notify the tribunal that the cited authority does not exist. The obligation to correct arises at the moment the attorney gains actual knowledge of the falsity — which may be when opposing counsel challenges the citation, when the attorney independently checks the source, or when the court notes the error. At that point, silence is not an option under Rule 3.3(a)(1).</p>
+
+    <h2>How ABA Formal Opinion 512 Frames Rule 3.3</h2>
+
+    <p>ABA Formal Opinion 512 (July 29, 2024) identifies Rule 3.3 as one of the rules directly implicated by AI use in legal practice. The opinion's treatment of Rule 3.3 is measured: it notes that an attorney who submits AI-generated authority without verification "may have" violated Rule 3.3(a)(1), depending on whether the knowing standard is met. The opinion does not definitively resolve when actual knowledge may properly be inferred from circumstances, but it does establish that the competence duty under Rule 1.1 — which requires understanding the AI tool's limitations — is a predicate for assessing Rule 3.3 compliance.</p>
+
+    <p>The connection matters: an attorney who satisfies the Rule 1.1 competence duty by understanding that AI tools hallucinate citations, and who then files those citations without verification, is not operating from ignorance. The attorney who understood the risk and skipped verification is in a different position from the attorney who had no idea that AI tools fabricate case names. Rule 3.3's "knowing" standard tracks that distinction, and ABA FO 512's competence framework means that the ignorance defense weakens over time as AI hallucination becomes more widely documented.</p>
+
+    <h2>The Practical Difference From FRCP Rule 11</h2>
+
+    <p>The most important practical difference between FRCP Rule 11 and ABA Rule 3.3 is the enforcement mechanism and consequences. Rule 11 sanctions are awarded in the civil litigation where the violation occurred and are limited to what suffices to deter — typically monetary sanctions, though the court may impose other appropriate remedies. Rule 3.3 violations are professional responsibility matters that may be reported to the state bar, resulting in disciplinary proceedings that can include suspension or disbarment.</p>
+
+    <p>An attorney sanctioned under Rule 11 for filing AI-generated fabricated citations has a civil record of the sanctions order. That same attorney, if a state bar disciplinary authority concludes that the conduct also violated Rule 3.3, faces the possibility of professional consequences that extend far beyond a single case. The distinction matters most in cases where the hallucination conduct was egregious — multiple fabricated citations, repeated after a prior warning, or filed in a context where the attorney's lack of verification was particularly reckless.</p>
+
+    <p><em>This content is legal information, not legal advice. It does not create an attorney-client relationship and cannot substitute for consultation with a licensed attorney about your specific circumstances.</em></p>
+
+    <section class="references">
+      <h2>References &amp; Sources</h2>
+      <ol>
+        <li>ABA Model Rules of Professional Conduct, Rule 3.3(a)(1) — duty of candor toward the tribunal; prohibition on knowingly making a false statement of fact or law to a tribunal; duty to correct false statements previously made. Source: <a href="https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_3_3_candor_toward_the_tribunal/" target="_blank" rel="noopener">americanbar.org/…/rule_3_3_candor_toward_the_tribunal/</a>.</li>
+        <li>ABA Model Rules of Professional Conduct, Rule 1.0(f) — definition of "knowingly": denotes actual knowledge; knowledge may be inferred from circumstances; foundational to the Rule 3.3 analysis. Source: <a href="https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_0_terminology/" target="_blank" rel="noopener">americanbar.org/…/rule_1_0_terminology/</a>.</li>
+        <li>ABA Standing Committee on Ethics and Professional Responsibility, Formal Opinion 512 (July 29, 2024) ("Generative Artificial Intelligence Tools") — identifies Rule 3.3 as directly implicated by AI use; notes that attorneys who file AI-generated authority without verification "may have" violated Rule 3.3(a)(1); establishes Rule 1.1 competence as a predicate for Rule 3.3 analysis. Source: <a href="https://www.americanbar.org/content/dam/aba/administrative/professional_responsibility/ethics-opinions/aba-formal-opinion-512.pdf" target="_blank" rel="noopener">americanbar.org/…/aba-formal-opinion-512.pdf</a>.</li>
+        <li>Federal Rule of Civil Procedure 11(b)(2) — attorney certification standard (objective reasonableness); distinct from Rule 3.3's knowing standard; FRCP 11 sanctions ordered in cases including <cite>Mata v. Avianca, Inc.</cite>, No. 22-cv-1461 (S.D.N.Y. June 22, 2023) (six AI-fabricated citations in brief; court imposed sanctions on attorneys and firm). Source: <a href="https://www.law.cornell.edu/rules/frcp/rule_11" target="_blank" rel="noopener">law.cornell.edu/rules/frcp/rule_11</a>.</li>
+        <li>ABA Model Rules of Professional Conduct, Rule 1.1 — competence duty; includes obligation to keep abreast of benefits and risks of relevant technology; establishes knowledge predicate for Rule 3.3 analysis in AI context. Source: <a href="https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_1_competence/" target="_blank" rel="noopener">americanbar.org/…/rule_1_1_competence/</a>.</li>
+      </ol>
+    </section>
+    </article>
+    <div id="upvote-container" class="upvote-wrap" style="margin:2rem auto 3rem;padding:0 1rem">
+    <p style="font-size:0.95rem;color:#374151;margin-bottom:0.75rem;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">Enjoyed this post?</p>
+  </div>
+  <script src="https://foculoom.com/assets/upvote.js" data-upvote-enabled="true" data-upvote-url="https://foculoom-upvotes.foculoom.workers.dev" defer></script>
+
+    <footer>
+    <nav style="display:flex;justify-content:center;flex-wrap:wrap;gap:.25rem 1.25rem;margin-bottom:.75rem" aria-label="Footer navigation">
+      <a href="/">Home</a>
+      <a href="/blog/">Blog</a>
+      <a href="/support/">Support</a>
+      <a href="/privacy/">Privacy</a>
+      <a href="/terms/">Terms</a>
+    </nav>
+    <p>&copy; 2026 Edglex / Foculoom LLC.</p>
+  </footer>
+
+</body>
+</html>

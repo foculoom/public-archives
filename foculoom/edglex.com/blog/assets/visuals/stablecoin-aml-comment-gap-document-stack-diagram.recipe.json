@@ -1,0 +1,186 @@
+{
+  "schema_version": "0.8.34",
+  "recipe_id": "stablecoin-aml-comment-gap-document-stack-diagram",
+  "kind": "document-stack-diagram",
+  "canvas": {
+    "width_px": 1200,
+    "height_px": 421,
+    "background_color": "#FFFFFF"
+  },
+  "scene": {
+    "elements": [
+      {
+        "type": "rect",
+        "x": 400,
+        "y": 60,
+        "width": 400,
+        "height": 80,
+        "fill": "#F8FAFC",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3,
+        "rx": 8
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 95,
+        "content": "What Is Actually in",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 115,
+        "content": "Front of the Market",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 120,
+        "content": "The June 5, 2026 FDIC proposed",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 134,
+        "content": "rule for FDIC-supervised",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 148,
+        "content": "permitted payment stablecoin",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 162,
+        "content": "issuers places these issuers",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "rect",
+        "x": 380,
+        "y": 160,
+        "width": 400,
+        "height": 80,
+        "fill": "#F1F5F9",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3,
+        "rx": 8
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 195,
+        "content": "Why This Is a Gap, Not",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 215,
+        "content": "Just \u201cNormal\u2026",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 220,
+        "content": "Rulemaking always contains",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 234,
+        "content": "uncertainty.",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "rect",
+        "x": 360,
+        "y": 260,
+        "width": 400,
+        "height": 80,
+        "fill": "#E2E8F0",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3,
+        "rx": 8
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 295,
+        "content": "What Teams Should Do",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 315,
+        "content": "During the Transition\u2026",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 320,
+        "content": "Use the current period to build",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 334,
+        "content": "control maps, not final",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 348,
+        "content": "controls.",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      }
+    ]
+  },
+  "metadata": {
+    "purpose": "visual-learning",
+    "generator": "rendit document-stack-diagram"
+  }
+}

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="421" viewBox="0 0 1200 421">
+  <rect x="0" y="0" width="1200" height="421" fill="#FFFFFF"/>
+  <line x1="150" y1="210" x2="1050" y2="210" stroke="#1D4ED8" stroke-width="6" opacity="1.0"/>
+  <circle cx="250" cy="210" r="28" fill="#1D4ED8" stroke="#FFFFFF" stroke-width="4" opacity="1.0"/>
+  <circle cx="600" cy="210" r="28" fill="#1D4ED8" stroke="#FFFFFF" stroke-width="4" opacity="1.0"/>
+  <circle cx="950" cy="210" r="28" fill="#1D4ED8" stroke="#FFFFFF" stroke-width="4" opacity="1.0"/>
+  <text x="200" y="140" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">What the § 199A</text>
+  <text x="200" y="160" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">Deduction Is</text>
+  <text x="550" y="140" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">Qualified Business</text>
+  <text x="550" y="160" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">Income: What It…</text>
+  <text x="900" y="140" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">The Two Major</text>
+  <text x="900" y="160" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">Limitations</text>
+  <text x="180" y="255" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">Under IRC § 199A, individuals</text>
+  <text x="180" y="271" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">(and certain trusts and estates)</text>
+  <text x="180" y="287" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">may deduct up to 20 percent of</text>
+  <text x="180" y="303" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">qualified business income</text>
+  <text x="530" y="255" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">QBI is net ordinary income from</text>
+  <text x="530" y="271" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">a qualified trade or business</text>
+  <text x="530" y="287" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">conducted within the United</text>
+  <text x="530" y="303" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">States.</text>
+  <text x="880" y="255" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">The § 199A deduction is subject</text>
+  <text x="880" y="271" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">to two limitations that apply</text>
+  <text x="880" y="287" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">above an inflation-adjusted</text>
+  <text x="880" y="303" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">income threshold.</text>
+</svg>

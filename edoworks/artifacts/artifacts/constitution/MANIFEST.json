@@ -1,0 +1,11 @@
+{
+  "artifact": "constitution",
+  "version": "1.0.0",
+  "source_revision": "737761e4c1c70edb866a7af4a35d839022d127d9",
+  "entrypoint": "templates/constitution.json.template",
+  "skill_entrypoint": "skills/constitution/SKILL.md",
+  "distribution": "repository-artifact",
+  "release_state": "RELEASED",
+  "dependency_policy": "templates-and-markdown-only",
+  "publication_approved": true
+}

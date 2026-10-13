@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "document-stack-diagram",
+  "recipe_id": "rule-1-6-ai-confidentiality-document-stack-diagram",
+  "source_article": "rule-1-6-ai-confidentiality.html",
+  "output_sha256": "8a8016c7904a629e577fb0ac9063929f34a66d785af2cf96b85f8ca6f1c5582c",
+  "concepts": [
+    "Rule 1.6(a): The General Confidentiality Duty",
+    "Rule 1.6(c): The Reasonable Efforts Standard",
+    "What ABA Formal Opinion 512 Adds",
+    "Three Questions to Ask Before Using Client Data in an AI Tool",
+    "Client Consent and Engagement Agreement Language"
+  ],
+  "content_kind": "legal-case-explainer",
+  "content_kind_source": "meta"
+}

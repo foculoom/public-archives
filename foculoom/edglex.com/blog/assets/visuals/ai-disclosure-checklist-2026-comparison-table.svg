@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="421" viewBox="0 0 1200 421">
+  <rect x="0" y="0" width="1200" height="421" fill="#FFFFFF"/>
+  <rect x="40" y="40" width="373" height="340" fill="#F8FAFC" stroke="#1D4ED8" stroke-width="3" rx="0" opacity="1.0"/>
+  <rect x="40" y="40" width="373" height="60" fill="#1D4ED8" stroke="none" stroke-width="1" rx="0" opacity="0.12"/>
+  <text x="60" y="60" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">Why the Old Approach</text>
+  <text x="60" y="80" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">Fails</text>
+  <rect x="433" y="40" width="373" height="340" fill="#F8FAFC" stroke="#1D4ED8" stroke-width="3" rx="0" opacity="1.0"/>
+  <rect x="433" y="40" width="373" height="60" fill="#1D4ED8" stroke="none" stroke-width="1" rx="0" opacity="0.12"/>
+  <text x="453" y="60" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">What a 2026-Ready</text>
+  <text x="453" y="80" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">Checklist Looks Like</text>
+  <rect x="826" y="40" width="373" height="340" fill="#F8FAFC" stroke="#1D4ED8" stroke-width="3" rx="0" opacity="1.0"/>
+  <rect x="826" y="40" width="373" height="60" fill="#1D4ED8" stroke="none" stroke-width="1" rx="0" opacity="0.12"/>
+  <text x="846" y="60" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">Disclosure Is</text>
+  <text x="846" y="80" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">Jurisdictional, but…</text>
+  <text x="60" y="130" text-anchor="start" font-family="sans-serif" font-size="14" fill="#1F2937" font-weight="400">Pattern: one attorney uses AI</text>
+  <text x="60" y="148" text-anchor="start" font-family="sans-serif" font-size="14" fill="#1F2937" font-weight="400">research, another attorney</text>
+  <text x="60" y="166" text-anchor="start" font-family="sans-serif" font-size="14" fill="#1F2937" font-weight="400">signs the filing, and no</text>
+  <text x="60" y="184" text-anchor="start" font-family="sans-serif" font-size="14" fill="#1F2937" font-weight="400">shared verification log</text>
+  <text x="60" y="202" text-anchor="start" font-family="sans-serif" font-size="14" fill="#1F2937" font-weight="400">exists.</text>
+  <text x="453" y="130" text-anchor="start" font-family="sans-serif" font-size="14" fill="#1F2937" font-weight="400">A practical AI-disclosure</text>
+  <text x="453" y="148" text-anchor="start" font-family="sans-serif" font-size="14" fill="#1F2937" font-weight="400">checklist has to run before</text>
+  <text x="453" y="166" text-anchor="start" font-family="sans-serif" font-size="14" fill="#1F2937" font-weight="400">filing, not after drafting.</text>
+  <text x="846" y="130" text-anchor="start" font-family="sans-serif" font-size="14" fill="#1F2937" font-weight="400">Different courts are adopting</text>
+  <text x="846" y="148" text-anchor="start" font-family="sans-serif" font-size="14" fill="#1F2937" font-weight="400">different disclosure</text>
+  <text x="846" y="166" text-anchor="start" font-family="sans-serif" font-size="14" fill="#1F2937" font-weight="400">expectations.</text>
+</svg>

@@ -1,0 +1,25 @@
+{
+  "schema": "factory.incident.5whys.v1",
+  "id": "<YYYY-MM-DD-short-slug>",
+  "title": "<one-line incident title>",
+  "recorded": "<YYYY-MM-DD>",
+  "severity": "minor | moderate | strategic",
+  "trigger": "<what happened>",
+  "evidence": [
+    "<file:line or command output proving the defect — no speculation>"
+  ],
+  "five_whys": [
+    {"why": "Why did <symptom> happen?", "answer": "<evidence-backed>"},
+    {"why": "Why did <that> happen?", "answer": "<evidence-backed>"},
+    {"why": "Why didn't <control> stop it?", "answer": "<evidence-backed>"},
+    {"why": "Why was <control> absent/insufficient?", "answer": "<evidence-backed>"},
+    {"why": "Root?", "answer": "<the controlling condition; stop when evidence runs out>"}
+  ],
+  "root_cause": "<the single root condition, stated explicitly>",
+  "immediate_correction": "<what you did to stop/recover>",
+  "root_cause_correction": "<the durable fix>" ,
+  "recurrence_guard": [
+    "<a mechanism/rule that would catch this class next time>"
+  ],
+  "notes": "<assumptions are labelled; do not invent causal depth to reach five answers>"
+}

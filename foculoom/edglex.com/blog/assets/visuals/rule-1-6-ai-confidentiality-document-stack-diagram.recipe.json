@@ -1,0 +1,204 @@
+{
+  "schema_version": "0.8.34",
+  "recipe_id": "rule-1-6-ai-confidentiality-document-stack-diagram",
+  "kind": "document-stack-diagram",
+  "canvas": {
+    "width_px": 1200,
+    "height_px": 421,
+    "background_color": "#FFFFFF"
+  },
+  "scene": {
+    "elements": [
+      {
+        "type": "rect",
+        "x": 400,
+        "y": 60,
+        "width": 400,
+        "height": 80,
+        "fill": "#F8FAFC",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3,
+        "rx": 8
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 95,
+        "content": "Rule 1.6(a): The",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 115,
+        "content": "General\u2026",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 120,
+        "content": "ABA Model Rule 1.6(a) provides",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 134,
+        "content": "that a lawyer shall not reveal",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 148,
+        "content": "information relating to the",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 162,
+        "content": "representation of a client",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "rect",
+        "x": 380,
+        "y": 160,
+        "width": 400,
+        "height": 80,
+        "fill": "#F1F5F9",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3,
+        "rx": 8
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 195,
+        "content": "Rule 1.6(c): The",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 215,
+        "content": "Reasonable Efforts\u2026",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 220,
+        "content": "ABA Model Rule 1.6(c) extends",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 234,
+        "content": "beyond prohibiting unauthorized",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 248,
+        "content": "disclosure.",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "rect",
+        "x": 360,
+        "y": 260,
+        "width": 400,
+        "height": 80,
+        "fill": "#E2E8F0",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3,
+        "rx": 8
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 295,
+        "content": "What ABA Formal",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 315,
+        "content": "Opinion 512 Adds",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 320,
+        "content": "ABA Formal Opinion 512 (July 29,",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 334,
+        "content": "2024), issued by the ABA",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 348,
+        "content": "Standing Committee on Ethics and",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 362,
+        "content": "Professional Responsibility",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      }
+    ]
+  },
+  "metadata": {
+    "purpose": "visual-learning",
+    "generator": "rendit document-stack-diagram"
+  }
+}

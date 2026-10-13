@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "reviewedAt": "2026-10-04",
+  "updateMode": "Manual snapshot",
+  "projects": [
+    {
+      "id": "nownest",
+      "name": "NowNest",
+      "workingName": true,
+      "stage": "tester",
+      "status": "Build 8 available to a tester",
+      "statusObservedAt": "2026-10-04T03:24:54Z",
+      "testDate": null,
+      "intended": "Make build 8 available for testing and evaluate the simplified core screen on a physical device.",
+      "delivered": "Tester availability confirmed. Unit, focused simulator UI and distribution checks passed. Physical-device validation remains open.",
+      "unitTestsPassed": 75,
+      "elapsedSeconds": null,
+      "elapsedStart": null,
+      "elapsedEnd": null,
+      "tests": [
+        "75 unit tests passed on an iPhone simulator",
+        "Focused iPhone and iPad UI checks passed",
+        "Archive, export and signature verification passed"
+      ],
+      "limitations": [
+        "Physical-device installation and comprehension unverified",
+        "Tinted icon appearance unverified",
+        "VoiceOver unverified",
+        "Real Apple Intelligence behavior unverified",
+        "Tester availability does not establish a public release"
+      ],
+      "blockers": [
+        "Device validation",
+        "Accessibility validation"
+      ],
+      "rework": "Core screen simplification and icon correction preceded build 8; rework duration and total count are unknown.",
+      "scopeChange": null,
+      "hypothesis": "A simpler core screen may improve comprehension; simulator checks cannot establish that outcome.",
+      "action": "Run a physical-device comprehension check, then validate tinted appearance, VoiceOver and real Apple Intelligence. Record dated results and limitations."
+    },
+    {
+      "id": "couch-clash",
+      "name": "Couch Clash",
+      "workingName": true,
+      "stage": "public",
+      "status": "Public web live · internal beta available",
+      "statusObservedAt": "2026-10-04",
+      "testDate": "2026-10-04",
+      "intended": "Deliver a usable shared game experience through public web and native TestFlight distribution.",
+      "delivered": "Public web delivery is verified and TestFlight 0.1.0 (1) is available as an internal beta. Deployed mobile, offline and saved-pick checks passed. Physical-device installation and real-world enjoyment remain unverified.",
+      "unitTestsPassed": null,
+      "elapsedSeconds": null,
+      "elapsedStart": null,
+      "elapsedEnd": null,
+      "tests": [
+        "Game flow, scoring, ties and locks passed",
+        "Reload and recovery checks passed",
+        "Mobile layout and keyboard checks passed",
+        "Localhost offline reload passed",
+        "Local browser and native iOS simulator flows passed: complete games, persistence and reset",
+        "Installed icon and external-link handling passed",
+        "Deployed public web mobile, offline and saved-pick checks passed"
+      ],
+      "limitations": [
+        "Physical-device installation unverified",
+        "Real-world enjoyment unverified",
+        "Internal beta availability does not establish external beta or App Store approval",
+        "No automatic live feed",
+        "No synchronized multiplayer",
+        "No user trial; comprehension remains unverified",
+        "Deployed web offline checks passed; physical-device offline behavior remains unverified"
+      ],
+      "blockers": [],
+      "rework": "Clarified early calls as first-half only and exposed first-half outcomes and standings before halftime picks. Rework duration and total count are unknown.",
+      "scopeChange": null,
+      "hypothesis": "Clearer setup and visible results may reduce host explanation and make shared play easier; technical passes do not prove this.",
+      "action": "Verify installation and behavior on a physical iPhone, then observe real-world setup, comprehension and enjoyment. Separate observed behavior from participant feedback.",
+      "internalBetaAvailable": true,
+      "publicLinks": [
+        {
+          "label": "Open public web app",
+          "url": "https://edoworks.com/couch-clash/"
+        },
+        {
+          "label": "View public repository",
+          "url": "https://github.com/edoworks/couch-clash"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-10-04",
+      "type": "Initial snapshot",
+      "description": "Recorded approved release status, technical checks and open validation gaps for both working-name projects. Unknown measurements remain null. No corrections recorded yet."
+    },
+    {
+      "date": "2026-10-04",
+      "type": "Couch Clash milestone update",
+      "description": "Recorded verified local browser and native iOS simulator flows, including complete games, persistence, reset, installed icon and external-link handling. Unsigned device archive prepared. Public web publication and TestFlight distribution remain blocked; no release occurred. Blocker categories: publication authorization pending; distribution setup pending. Physical iPhone and real-world enjoyment remain unverified. Milestone recorded on this date; exact test timestamps and elapsed time remain unknown."
+    },
+    {
+      "date": "2026-10-04",
+      "type": "Couch Clash publication blocker resolved",
+      "description": "Public web and public repository verified. Deployed mobile, offline and saved-pick checks passed. Resolved: publication authorization pending. This dated update supersedes the earlier no-release status for web delivery."
+    },
+    {
+      "date": "2026-10-04",
+      "type": "Couch Clash distribution blocker resolved",
+      "description": "TestFlight 0.1.0 (1) reported available as an internal beta. Resolved: distribution setup pending. This does not establish external beta or App Store approval. Physical-device installation and real-world enjoyment remain unverified. Exact delivery timestamps and elapsed time remain unknown."
+    }
+  ]
+}

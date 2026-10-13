@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="generator" content="Edoworks 202607291851.0">
+  <title>FRE 901 and AI-Generated Content: Authentication Challenges When Evidence Comes From a Language Model — Edglex</title>
+  <meta name="description" content="When AI-generated content enters federal court proceedings, Federal Rule of Evidence 901 governs how it must be authenticated. Here is how the process-or-system standard applies.">
+  <link rel="canonical" href="https://edglex.com/blog/fre-901-ai-authentication.html">
+    <style>
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#fff;color:#111827;line-height:1.6;min-height:100vh}
+    a{color:#4338ca;text-decoration:none} a:hover{color:#3730a3;text-decoration:underline}
+    nav{background:#fff;border-bottom:1px solid #e2e8f0;padding:.875rem 1.5rem;display:flex;align-items:center;gap:1.5rem;flex-wrap:wrap}
+    nav .brand{font-family:Georgia,"Times New Roman",serif;font-weight:700;font-size:1rem;color:#1a202c;letter-spacing:-.01em;margin-right:auto}
+    nav .brand:hover{text-decoration:none;color:#4338ca}
+    nav .sep{color:#cbd5e1} nav .back{font-size:.875rem;color:#4a5568;font-weight:500} nav .back:hover{color:#4338ca;text-decoration:none}
+    .nav-links{display:flex;gap:1.25rem;flex-wrap:wrap}
+    .nav-links a{font-size:.875rem;color:#4a5568;font-weight:500}
+    .nav-links a:hover{color:#4338ca;text-decoration:none}
+    main{max-width:720px;margin:0 auto;padding:3rem 1.5rem 4rem}
+    .post-header{margin-bottom:2.5rem}
+    .byline{font-size:.8125rem;color:#6b7280;text-transform:uppercase;letter-spacing:.06em;margin-bottom:1rem;display:flex;align-items:center;gap:.75rem}
+    .byline-dot{color:#d1d5db}
+    h1{font-size:2rem;font-weight:700;letter-spacing:-.025em;line-height:1.25;margin-bottom:1rem}
+    .lead{font-size:1.125rem;color:#374151;line-height:1.65;border-left:3px solid #4338ca;padding-left:1.25rem;margin-bottom:2rem}
+    h2{font-size:1.25rem;font-weight:600;color:#1a202c;margin:2.25rem 0 .75rem;letter-spacing:-.01em}
+    p{margin-bottom:1.25rem;color:#374151} p:last-child{margin-bottom:0} footer p{color:inherit;margin:0}
+    ul{margin:1rem 0 1.5rem 1.5rem} ul li{margin-bottom:.5rem;color:#374151}
+    ol{margin:.5rem 0 1rem 1.5rem} li{font-size:.9375rem;color:#374151;margin-bottom:.375rem}
+    .highlight{background:#eef2ff;border:1px solid #c7d2fe;border-left:3px solid #4338ca;border-radius:8px;padding:1.25rem 1.5rem;margin:1.5rem 0}
+    .highlight-title{font-size:.75rem;text-transform:uppercase;letter-spacing:.08em;color:#4338ca;font-weight:600;margin-bottom:.5rem}
+    .highlight p{color:#374151;margin-bottom:0;font-size:.9375rem}
+    table{width:100%;border-collapse:collapse;margin:1.5rem 0;font-size:.9375rem}
+    th,td{text-align:left;padding:.625rem .75rem;border-bottom:1px solid #e5e7eb}
+    th{background:#f9fafb;font-weight:600;color:#111827;font-size:.8125rem;text-transform:uppercase;letter-spacing:.04em}
+    td{color:#374151} tr:last-child td{border-bottom:none}
+    .footnote{font-size:.8125rem;color:#6b7280;margin-top:1.5rem;padding-top:1rem;border-top:1px solid #e5e7eb}
+    footer{border-top:1px solid #e5e7eb;padding:2rem 1.5rem;text-align:center;font-size:.875rem;color:#6b7280}
+    footer a{color:#4338ca}
+  </style>
+</head>
+<body>
+    <nav aria-label="Site navigation">
+    <a href="/" class="brand">Edglex</a>
+    <span class="sep">/</span>
+    <a href="/blog/" class="back">&larr; Blog</a>
+    <div class="nav-links">
+      <a href="/support/">Support</a>
+      <a href="/privacy/">Privacy</a>
+      <a href="/terms/">Terms</a>
+    </div>
+  </nav>
+
+  <article data-pagefind-body>
+    <header class="post-header">
+      <div class="byline">
+        <span>Edglex Research</span>
+        <span class="byline-dot">·</span>
+        <time datetime="2026-06-06">June 6, 2026</time>
+      </div>
+      <h1>FRE 901 and AI-Generated Content: Authentication Challenges When Evidence Comes From a Language Model</h1>
+      <p class="lead">
+        Federal Rule of Evidence 901 requires that before any item of evidence can be admitted, the proponent must
+        show it is what the proponent claims it is. AI-generated content — transcriptions, summaries, reconstructed
+        timelines — raises distinct authentication questions that FRE 901(b)(9) is best positioned to address.
+      </p>
+    </header>
+    <figure class="visual-learning-map" data-visual-learning="rendit-comparison-table">
+      <img src="/blog/assets/visuals/fre-901-ai-authentication-comparison-table.svg" alt="comparison-table diagram for FRE 901 and AI-Generated Content: Authentication Challenges When Evidence Comes From a Language Model: FRE 901(a): The General Standard, FRE 901(b)(9): Evidence About a Pr, Three Contexts Where This Analysis" width="1200" height="420" loading="lazy" data-rendit-meta="/blog/assets/visuals/fre-901-ai-authentication-comparison-table.meta.json" style="display:block;width:100%;height:auto">
+      <figcaption>Comparison Table: FRE 901(a): The General Standard → FRE 901(b)(9): Evidence About a Pr → Three Contexts Where This Analysis</figcaption>
+    </figure>
+
+
+    <p>For most of the history of the Federal Rules of Evidence, authentication was a foundation-laying exercise that courts and practitioners managed with familiar tools: witness identification, chain-of-custody records, comparison with known samples, documentary timestamps. Generative AI introduces a new category of evidence — content whose accuracy depends not on a human author's memory or a documentary record, but on the statistical behavior of a machine-learning model at the moment the output was generated. FRE 901 still governs, but its application to AI-generated content requires thinking carefully about what "what the proponent claims it is" means for output from a system that produces probabilistic text.</p>
+
+    <p>This post addresses the authentication analysis for AI-generated content under FRE 901 — specifically, when AI output is offered as evidence of an underlying fact (such as a transcription of a recorded conversation), as a demonstrative exhibit (such as a timeline reconstructed from documents), or as part of the record of what an AI tool produced (relevant when AI use in litigation is itself at issue).</p>
+
+    <h2>FRE 901(a): The General Standard</h2>
+
+    <p>Federal Rule of Evidence 901(a) states that to satisfy the requirement of authenticating or identifying an item of evidence, the proponent must produce evidence sufficient to support a finding that the item is what the proponent claims it is. This is a threshold requirement, not a conclusive finding — it requires only a showing sufficient to support a reasonable factfinder's conclusion that the item is genuine. The standard is frequently described as prima facie: the proponent need not conclusively prove authenticity, only produce enough evidence that a reasonable juror could find it authentic.</p>
+
+    <div class="example">
+      <div class="example-title">FRE 901(a) — General Authentication Standard</div>
+      <p>"To satisfy the requirement of authenticating or identifying an item of evidence, the proponent must produce evidence sufficient to support a finding that the item is what the proponent claims it is."<br><br>
+      <strong>Source:</strong> Fed. R. Evid. 901(a); <a href="https://www.law.cornell.edu/rules/fre/rule_901" target="_blank" rel="noopener">law.cornell.edu/rules/fre/rule_901</a>.</p>
+    </div>
+
+    <p>Applied to AI-generated content, this standard asks: is there sufficient evidence that the content is an accurate output of the AI process the proponent describes, based on the inputs the proponent provided, and that the output accurately reflects whatever underlying fact the proponent relies on it to establish? Authentication does not guarantee accuracy — a properly authenticated document can still be unreliable — but it does establish that the item is what it purports to be, not a fabrication or a different document entirely.</p>
+
+    <h2>FRE 901(b)(9): Evidence About a Process or System</h2>
+
+    <p>Federal Rule of Evidence 901(b) provides a non-exhaustive list of authentication methods. Rule 901(b)(9) — "Evidence About a Process or System" — is the provision most directly applicable to AI-generated content. It provides that evidence may be authenticated by "evidence describing a process or system and showing that it produces an accurate result."</p>
+
+    <div class="example">
+      <div class="example-title">FRE 901(b)(9) — Process or System Authentication</div>
+      <p>"The following are examples only — not a complete list — of evidence that satisfies the requirement: … (9) Evidence About a Process or System. Evidence describing a process or system and showing that it produces an accurate result."<br><br>
+      <strong>Source:</strong> Fed. R. Evid. 901(b)(9); <a href="https://www.law.cornell.edu/rules/fre/rule_901" target="_blank" rel="noopener">law.cornell.edu/rules/fre/rule_901</a>.</p>
+    </div>
+
+    <p>Authentication under Rule 901(b)(9) requires two showings: (1) a description of the process or system — here, the AI model, its version, the inputs provided, and the conditions under which the output was generated — and (2) a showing that the process or system produces accurate results. The second element is where AI-generated content presents the greatest challenge, because large language models do not produce deterministic outputs, and their accuracy varies with the nature of the task, the quality of the training data, and the specificity of the prompt.</p>
+
+    <p>For a court to admit AI-generated content under FRE 901(b)(9), the proponent will typically need to offer some combination of: testimony from a qualified witness explaining how the AI system works and why it produces reliable output for the specific task at issue; documentation of the model used and any validation testing; and evidence that the output was independently verified against a primary source. Without some showing of reliability, an objection that the AI process has not been shown to produce accurate results should be sustained.</p>
+
+    <h2>Three Contexts Where This Analysis Applies</h2>
+
+    <p>The FRE 901 analysis is not a single exercise — it varies depending on what role AI-generated content plays in the proceeding.</p>
+
+    <p><strong>AI-assisted transcription.</strong> When a party offers an AI-generated transcription of a recorded conversation as evidence of what was said, authentication requires establishing: (a) that the recording existed and was genuine, (b) that the AI transcription tool accurately transcribed the recording, and (c) that the transcription offered in court is the actual output of that process applied to that recording. Accuracy may be shown by comparison with the original recording (if available) or by expert testimony about the transcription model's error rates for the type of recording at issue.</p>
+
+    <p><strong>AI-generated timelines and summaries.</strong> When a party offers a timeline reconstructed by an AI from a set of documents as a demonstrative exhibit, the authentication question is whether the timeline accurately reflects the documents. Courts have broad discretion over demonstratives, but an AI-generated summary or timeline offered to show what the documents contain invites challenge under FRE 901 and FRE 1002 — if the document contents are in issue, the original documents may be required rather than an AI summary of them.</p>
+
+    <p><strong>AI output offered to show AI behavior.</strong> In cases where the AI system's behavior is itself at issue — disputes over AI-generated contracts, chatbot representations, automated decision-making — the AI output may be offered as evidence of what the system generated. Authentication here focuses on establishing that the exhibit is the actual output the system produced, not a later modification, and that the system's behavior at the relevant time is accurately reflected.</p>
+
+    <h2>FRE 1002 and the Original Document Rule</h2>
+
+    <p>Federal Rule of Evidence 1002 — the "best evidence rule" — provides that an original writing, recording, or photograph is required in order to prove its content, unless the Federal Rules or a federal statute provides otherwise. When a party relies on an AI-generated summary to establish the content of underlying documents, FRE 1002 may require the original documents rather than the AI's description of them. This consideration arises most sharply when the original documents are available and the AI summary has any possibility of error or omission.</p>
+
+    <div class="example">
+      <div class="example-title">FRE 1002 — Best Evidence Rule</div>
+      <p>"An original writing, recording, or photograph is required in order to prove its content unless these rules or a federal statute provides otherwise."<br><br>
+      <strong>Source:</strong> Fed. R. Evid. 1002; <a href="https://www.law.cornell.edu/rules/fre/rule_1002" target="_blank" rel="noopener">law.cornell.edu/rules/fre/rule_1002</a>.</p>
+    </div>
+
+    <p>The best-evidence rule does not categorically exclude AI-generated summaries. Courts routinely admit summaries of voluminous documents under FRE 1006 when originals would be impractical to review. But FRE 1006 requires that the originals be made available for inspection or copying, and an AI-generated summary subject to FRE 1006 would still need to satisfy FRE 901 authentication standards.</p>
+
+    <h2>Practical Implications for Practitioners Using AI Tools</h2>
+
+    <p>The authentication analysis points toward specific practices for attorneys who use AI tools to process documents or generate content that may later be offered in a proceeding. First, document the inputs: record what documents or data were provided to the AI, in what format, and what prompt or instructions were used. Second, document the model: identify the AI tool, its version, and any configuration settings that affected the output. Third, independently verify outputs that will be relied upon — particularly transcriptions or factual summaries — against the underlying source. That verification process serves double duty: when submitting AI-assisted content in a signed court filing, it supports the attorney's FRCP 11 certification of reasonable inquiry, and it creates the foundation for FRE 901(b)(9) authentication if the output is ever offered in a proceeding.</p>
+
+    <p><em>This content is legal information, not legal advice. It does not create an attorney-client relationship and cannot substitute for consultation with a licensed attorney about your specific circumstances.</em></p>
+
+    <section class="references">
+      <h2>References &amp; Sources</h2>
+      <ol>
+        <li>Federal Rule of Evidence 901(a) — general authentication standard; proponent must produce evidence sufficient to support a finding that an item is what the proponent claims it is. Source: <a href="https://www.law.cornell.edu/rules/fre/rule_901" target="_blank" rel="noopener">law.cornell.edu/rules/fre/rule_901</a>.</li>
+        <li>Federal Rule of Evidence 901(b)(9) — "Evidence About a Process or System"; authentication by evidence describing a process or system and showing that it produces an accurate result; most directly applicable method for AI-generated content. Source: <a href="https://www.law.cornell.edu/rules/fre/rule_901" target="_blank" rel="noopener">law.cornell.edu/rules/fre/rule_901</a>.</li>
+        <li>Federal Rule of Evidence 1002 — original document rule; original writing, recording, or photograph required to prove its content; interacts with AI-generated summaries when underlying documents' contents are at issue. Source: <a href="https://www.law.cornell.edu/rules/fre/rule_1002" target="_blank" rel="noopener">law.cornell.edu/rules/fre/rule_1002</a>.</li>
+        <li>Federal Rule of Evidence 1006 — summaries of voluminous records; permits chart, summary, or calculation as substitute for originals that cannot conveniently be examined in court; applies to AI-generated summaries with authentication requirements preserved. Source: <a href="https://www.law.cornell.edu/rules/fre/rule_1006" target="_blank" rel="noopener">law.cornell.edu/rules/fre/rule_1006</a>.</li>
+        <li>ABA Standing Committee on Ethics and Professional Responsibility, Formal Opinion 512 (July 29, 2024) — competence obligations extend to understanding AI tool limitations, which bears on ability to make the reliability showing required by FRE 901(b)(9). Source: <a href="https://www.americanbar.org/content/dam/aba/administrative/professional_responsibility/ethics-opinions/aba-formal-opinion-512.pdf" target="_blank" rel="noopener">americanbar.org/…/aba-formal-opinion-512.pdf</a>.</li>
+      </ol>
+    </section>
+    </article>
+    <div id="upvote-container" class="upvote-wrap" style="margin:2rem auto 3rem;padding:0 1rem">
+    <p style="font-size:0.95rem;color:#374151;margin-bottom:0.75rem;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">Enjoyed this post?</p>
+  </div>
+  <script src="https://foculoom.com/assets/upvote.js" data-upvote-enabled="true" data-upvote-url="https://foculoom-upvotes.foculoom.workers.dev" defer></script>
+
+    <footer>
+    <nav style="display:flex;justify-content:center;flex-wrap:wrap;gap:.25rem 1.25rem;margin-bottom:.75rem" aria-label="Footer navigation">
+      <a href="/">Home</a>
+      <a href="/blog/">Blog</a>
+      <a href="/support/">Support</a>
+      <a href="/privacy/">Privacy</a>
+      <a href="/terms/">Terms</a>
+    </nav>
+    <p>&copy; 2026 Edglex / Foculoom LLC.</p>
+  </footer>
+
+</body>
+</html>

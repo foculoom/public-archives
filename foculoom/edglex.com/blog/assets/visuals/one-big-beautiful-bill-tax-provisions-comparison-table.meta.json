@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "comparison-table",
+  "recipe_id": "one-big-beautiful-bill-tax-provisions-comparison-table",
+  "source_article": "one-big-beautiful-bill-tax-provisions.html",
+  "output_sha256": "b19dd6b18ac0db24df57b7009d449c6d904d785b488f1076e82591544ebf0e71",
+  "concepts": [
+    "Five New Provisions to Know",
+    "Why These Provisions Won't Find You On Their Own",
+    "What to Do Next",
+    "References & Sources"
+  ],
+  "content_kind": "unknown (kind override)",
+  "content_kind_source": "override"
+}

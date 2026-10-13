@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "comparison-table",
+  "recipe_id": "courts-sanctioning-ai-citations-comparison-table",
+  "source_article": "courts-sanctioning-ai-citations.html",
+  "output_sha256": "2cb6fe6d12f6c419ec8078ac7905ebd2da806e1bb3bfb5b6351020ba1febbc13",
+  "concepts": [
+    "What the Sanctions Actually Require",
+    "The Overconfidence Problem",
+    "Attorney-Client Privilege and Third-Party AI Tools",
+    "What Honest AI Looks Like in Legal Practice",
+    "References & Sources"
+  ],
+  "content_kind": "unknown (kind override)",
+  "content_kind_source": "override"
+}

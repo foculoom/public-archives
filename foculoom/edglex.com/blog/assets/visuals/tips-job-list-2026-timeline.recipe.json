@@ -1,0 +1,198 @@
+{
+  "schema_version": "0.8.34",
+  "recipe_id": "tips-job-list-2026-timeline",
+  "kind": "timeline",
+  "canvas": {
+    "width_px": 1200,
+    "height_px": 421,
+    "background_color": "#FFFFFF"
+  },
+  "scene": {
+    "elements": [
+      {
+        "type": "line",
+        "x1": 150,
+        "y1": 210,
+        "x2": 1050,
+        "y2": 210,
+        "stroke": "#1D4ED8",
+        "stroke_width": 6
+      },
+      {
+        "type": "circle",
+        "cx": 250,
+        "cy": 210,
+        "r": 28,
+        "fill": "#1D4ED8",
+        "stroke": "#FFFFFF",
+        "stroke_width": 4
+      },
+      {
+        "type": "circle",
+        "cx": 600,
+        "cy": 210,
+        "r": 28,
+        "fill": "#1D4ED8",
+        "stroke": "#FFFFFF",
+        "stroke_width": 4
+      },
+      {
+        "type": "circle",
+        "cx": 950,
+        "cy": 210,
+        "r": 28,
+        "fill": "#1D4ED8",
+        "stroke": "#FFFFFF",
+        "stroke_width": 4
+      },
+      {
+        "type": "text",
+        "x": 200,
+        "y": 140,
+        "content": "What Changed on April",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 200,
+        "y": 160,
+        "content": "10",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 550,
+        "y": 140,
+        "content": "What Counts as a",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 550,
+        "y": 160,
+        "content": "Qualified Tip",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 900,
+        "y": 140,
+        "content": "Other Limits People",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 900,
+        "y": 160,
+        "content": "Miss",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 255,
+        "content": "IR-2026-49 says the final",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 271,
+        "content": "regulations now identify more",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 287,
+        "content": "than 70 occupations that",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 303,
+        "content": "customarily and regularly",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 319,
+        "content": "receive tips",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 255,
+        "content": "The regulations do more than",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 271,
+        "content": "name occupations.",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 255,
+        "content": "The IRS's One, Big, Beautiful",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 271,
+        "content": "Bill provisions page adds three",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 287,
+        "content": "more limits that matter.",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      }
+    ]
+  },
+  "metadata": {
+    "purpose": "visual-learning",
+    "generator": "rendit timeline"
+  }
+}

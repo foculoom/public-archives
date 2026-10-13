@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="421" viewBox="0 0 1200 421">
+  <rect x="0" y="0" width="1200" height="421" fill="#FFFFFF"/>
+  <line x1="150" y1="210" x2="1050" y2="210" stroke="#1D4ED8" stroke-width="6" opacity="1.0"/>
+  <circle cx="250" cy="210" r="28" fill="#1D4ED8" stroke="#FFFFFF" stroke-width="4" opacity="1.0"/>
+  <circle cx="600" cy="210" r="28" fill="#1D4ED8" stroke="#FFFFFF" stroke-width="4" opacity="1.0"/>
+  <circle cx="950" cy="210" r="28" fill="#1D4ED8" stroke="#FFFFFF" stroke-width="4" opacity="1.0"/>
+  <text x="200" y="140" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">The Certification:</text>
+  <text x="200" y="160" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">FRCP 11(b)(2)</text>
+  <text x="550" y="140" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">What the Inquiry</text>
+  <text x="550" y="160" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">Requires for…</text>
+  <text x="900" y="140" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">ABA Formal Opinion</text>
+  <text x="900" y="160" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">512: The Competence…</text>
+  <text x="180" y="255" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">Federal Rule of Civil Procedure</text>
+  <text x="180" y="271" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">11(b) provides that by</text>
+  <text x="180" y="287" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">presenting a signed pleading,</text>
+  <text x="180" y="303" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">written motion, or other paper</text>
+  <text x="180" y="319" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">to</text>
+  <text x="530" y="255" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">Courts have not issued a uniform</text>
+  <text x="530" y="271" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">standard for what a "reasonable</text>
+  <text x="530" y="287" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">inquiry" means specifically in</text>
+  <text x="530" y="303" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">the AI-assisted context.</text>
+  <text x="880" y="255" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">ABA Formal Opinion 512 (July 29,</text>
+  <text x="880" y="271" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">2024), issued by the ABA</text>
+  <text x="880" y="287" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">Standing Committee on Ethics and</text>
+  <text x="880" y="303" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">Professional Responsibility</text>
+</svg>

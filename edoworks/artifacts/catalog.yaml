@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "repository": "edoworks/artifacts",
+  "artifacts": [
+    {
+      "id": "reusefirst",
+      "version": "1.2.1",
+      "path": "artifacts/reusefirst",
+      "tag": "reusefirst/v1.2.1",
+      "license": "Apache-2.0",
+      "distribution": "none-currently-supported",
+      "release_immutable": false,
+      "attached_asset_count": 0,
+      "status": "released-known-defects",
+      "known_defects": [
+        "tag omits complete Apache-2.0 terms",
+        "tag documentation promises an unavailable checksum"
+      ]
+    },
+    {
+      "id": "constitution",
+      "version": "1.0.0",
+      "path": "artifacts/constitution",
+      "tag": "constitution/v1.0.0",
+      "license": "MIT",
+      "distribution": "github-release-assets",
+      "release_immutable": false,
+      "attached_asset_count": 5,
+      "status": "released"
+    },
+    {
+      "id": "asc",
+      "version": "1.0.0",
+      "path": "artifacts/asc",
+      "tag": "asc/v1.0.0",
+      "license": "MIT",
+      "distribution": "github-release-assets",
+      "release_immutable": false,
+      "attached_asset_count": 5,
+      "status": "released"
+    }
+  ]
+}

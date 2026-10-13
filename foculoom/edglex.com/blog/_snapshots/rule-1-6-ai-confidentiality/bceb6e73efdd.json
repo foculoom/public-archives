@@ -1,0 +1,10 @@
+{
+  "source_url": "https://www.americanbar.org/content/dam/aba/administrative/professional_responsibility/ethics-opinions/aba-formal-opinion-512.pdf",
+  "capture_date": "2026-07-31T15:28:14.729152+00:00",
+  "http_status": 403,
+  "error_detail": null,
+  "anchor_text": "americanbar.org",
+  "cited_passage": "Key requirement: Before using an AI tool with client data, attorneys must review the service provider's data practices — including data retention, model training, and third-party sharing — and assess whether those practices are consistent with the attorney's confidentiality duty under Rule 1.6.\n      Key risk: Consumer-tier AI services frequently retain user inputs and may use them to train future models. Submitting client information to such a service without investigation may constitute an una",
+  "wayback_url": "http://web.archive.org/web/20260723041749/https://www.americanbar.org/content/dam/aba/administrative/professional_responsibility/ethics-opinions/aba-formal-opinion-512.pdf",
+  "wayback_date": "2026-07-23T04:17:49"
+}

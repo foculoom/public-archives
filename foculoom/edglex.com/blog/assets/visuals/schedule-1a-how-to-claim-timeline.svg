@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="421" viewBox="0 0 1200 421">
+  <rect x="0" y="0" width="1200" height="421" fill="#FFFFFF"/>
+  <line x1="150" y1="210" x2="1050" y2="210" stroke="#1D4ED8" stroke-width="6" opacity="1.0"/>
+  <circle cx="250" cy="210" r="28" fill="#1D4ED8" stroke="#FFFFFF" stroke-width="4" opacity="1.0"/>
+  <circle cx="600" cy="210" r="28" fill="#1D4ED8" stroke="#FFFFFF" stroke-width="4" opacity="1.0"/>
+  <circle cx="950" cy="210" r="28" fill="#1D4ED8" stroke="#FFFFFF" stroke-width="4" opacity="1.0"/>
+  <text x="200" y="140" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">What Schedule 1-A Is</text>
+  <text x="550" y="140" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">The Four Deductions</text>
+  <text x="550" y="160" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">and What Each Part…</text>
+  <text x="900" y="140" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">The Documentation</text>
+  <text x="900" y="160" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">Problem</text>
+  <text x="180" y="255" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">Schedule 1-A is a new attachment</text>
+  <text x="180" y="271" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">to Form 1040.</text>
+  <text x="530" y="255" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">Workers in tip-eligible</text>
+  <text x="530" y="271" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">occupations may deduct up to</text>
+  <text x="530" y="287" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">$25,000 of qualified tip income</text>
+  <text x="530" y="303" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">per return — the same ceiling</text>
+  <text x="880" y="255" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">Each deduction requires</text>
+  <text x="880" y="271" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">documentation you may not have</text>
+  <text x="880" y="287" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">already assembled.</text>
+</svg>

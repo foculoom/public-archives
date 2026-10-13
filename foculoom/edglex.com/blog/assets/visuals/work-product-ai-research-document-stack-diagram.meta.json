@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "document-stack-diagram",
+  "recipe_id": "work-product-ai-research-document-stack-diagram",
+  "source_article": "work-product-ai-research.html",
+  "output_sha256": "d1950d0ff59c6d8741709b0ecb43aecb5513112dc31ba681f093fbabf6f45d1f",
+  "concepts": [
+    "The Work Product Framework: FRCP 26(b)(3)",
+    "Do AI Prompts Qualify as Work Product?",
+    "Do AI Outputs Qualify as Work Product?",
+    "The Waiver Risk: Third-Party AI Services",
+    "Practical Documentation Recommendations"
+  ],
+  "content_kind": "legal-case-explainer",
+  "content_kind_source": "meta"
+}

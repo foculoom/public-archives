@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="421" viewBox="0 0 1200 421">
+  <rect x="0" y="0" width="1200" height="421" fill="#FFFFFF"/>
+  <line x1="150" y1="210" x2="1050" y2="210" stroke="#1D4ED8" stroke-width="6" opacity="1.0"/>
+  <circle cx="250" cy="210" r="28" fill="#1D4ED8" stroke="#FFFFFF" stroke-width="4" opacity="1.0"/>
+  <circle cx="600" cy="210" r="28" fill="#1D4ED8" stroke="#FFFFFF" stroke-width="4" opacity="1.0"/>
+  <circle cx="950" cy="210" r="28" fill="#1D4ED8" stroke="#FFFFFF" stroke-width="4" opacity="1.0"/>
+  <text x="200" y="140" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">What the Deduction</text>
+  <text x="200" y="160" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">Covers</text>
+  <text x="550" y="140" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">The Core Eligibility</text>
+  <text x="550" y="160" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">Requirements</text>
+  <text x="900" y="140" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">Why This Provision</text>
+  <text x="900" y="160" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">Gets Missed</text>
+  <text x="180" y="255" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">Taxpayers may deduct up to</text>
+  <text x="180" y="271" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">$10,000 in qualified interest</text>
+  <text x="180" y="287" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">paid during the tax year on a</text>
+  <text x="180" y="303" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">loan for a new passenger</text>
+  <text x="180" y="319" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">vehicle.</text>
+  <text x="530" y="255" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">There are six questions that</text>
+  <text x="530" y="271" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">determine whether you can claim</text>
+  <text x="530" y="287" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">this deduction.</text>
+  <text x="880" y="255" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">The tipped income and overtime</text>
+  <text x="880" y="271" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">exclusions are targeted at</text>
+  <text x="880" y="287" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">workers in specific industries.</text>
+</svg>

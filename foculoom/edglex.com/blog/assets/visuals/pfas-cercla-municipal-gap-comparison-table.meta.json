@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "comparison-table",
+  "recipe_id": "pfas-cercla-municipal-gap-comparison-table",
+  "source_article": "pfas-cercla-municipal-gap.html",
+  "output_sha256": "c9bcc321faf1d12d64dcdb9c7fe403b2ebb9ca4886b33349c12dd171183b0170",
+  "concepts": [
+    "The CERCLA Designation: What Changed in 2024",
+    "What the MSW Exclusion Does and Does Not Cover",
+    "EPA's Enforcement Discretion Policy: What It Says and What It Is Not",
+    "The Congressional Gap and the Path to a Real Exemption",
+    "References & Sources"
+  ],
+  "content_kind": "regulatory-gap / compliance-gap",
+  "content_kind_source": "meta"
+}

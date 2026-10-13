@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "comparison-table",
+  "recipe_id": "standing-orders-ai-disclosure-comparison-table",
+  "source_article": "standing-orders-ai-disclosure.html",
+  "output_sha256": "937dedc7c6c341c21fbb568e6a2f0583fa9eab47339581e20c8bbfe17301eb17",
+  "concepts": [
+    "The Rulemaking Authority: FRCP Rule 83",
+    "What AI-Related Orders Typically Require",
+    "How to Check for Applicable Orders",
+    "The Interaction With FRCP Rule 11 and ABA FO 512",
+    "References & Sources"
+  ],
+  "content_kind": "regulatory-gap / compliance-gap",
+  "content_kind_source": "meta"
+}

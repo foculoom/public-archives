@@ -1,0 +1,21 @@
+{
+  "name": "Edglex",
+  "short_name": "Edglex",
+  "description": "Legal research tools for the regulatory gaps that matter.",
+  "icons": [
+    {
+      "src": "/assets/favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#1D4ED8",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "start_url": "/"
+}

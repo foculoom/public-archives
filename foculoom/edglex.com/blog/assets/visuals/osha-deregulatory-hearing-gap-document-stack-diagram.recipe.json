@@ -1,0 +1,168 @@
+{
+  "schema_version": "0.8.34",
+  "recipe_id": "osha-deregulatory-hearing-gap-document-stack-diagram",
+  "kind": "document-stack-diagram",
+  "canvas": {
+    "width_px": 1200,
+    "height_px": 421,
+    "background_color": "#FFFFFF"
+  },
+  "scene": {
+    "elements": [
+      {
+        "type": "rect",
+        "x": 400,
+        "y": 60,
+        "width": 400,
+        "height": 80,
+        "fill": "#F8FAFC",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3,
+        "rx": 8
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 95,
+        "content": "Why this specific",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 115,
+        "content": "hearing cycle matters",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 120,
+        "content": "The OSHA deregulatory page now",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 134,
+        "content": "includes a formal hearing",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 148,
+        "content": "timeline and a notice process",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 420,
+        "y": 162,
+        "content": "for participants who intend to",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "rect",
+        "x": 380,
+        "y": 160,
+        "width": 400,
+        "height": 80,
+        "fill": "#F1F5F9",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3,
+        "rx": 8
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 195,
+        "content": "The practical risk map",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 220,
+        "content": "There are three uncertainty",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 400,
+        "y": 234,
+        "content": "layers in this phase.",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "rect",
+        "x": 360,
+        "y": 260,
+        "width": 400,
+        "height": 80,
+        "fill": "#E2E8F0",
+        "stroke": "#1D4ED8",
+        "stroke_width": 3,
+        "rx": 8
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 295,
+        "content": "Why this is a classic",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 315,
+        "content": "law-gaps case",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 320,
+        "content": "This is less a doctrinal mystery",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 380,
+        "y": 334,
+        "content": "than a sequencing problem.",
+        "font_size": 12,
+        "fill": "#475569",
+        "font_weight": 400
+      }
+    ]
+  },
+  "metadata": {
+    "purpose": "visual-learning",
+    "generator": "rendit document-stack-diagram"
+  }
+}

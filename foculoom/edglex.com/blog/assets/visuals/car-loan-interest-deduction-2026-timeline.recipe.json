@@ -1,0 +1,207 @@
+{
+  "schema_version": "0.8.34",
+  "recipe_id": "car-loan-interest-deduction-2026-timeline",
+  "kind": "timeline",
+  "canvas": {
+    "width_px": 1200,
+    "height_px": 421,
+    "background_color": "#FFFFFF"
+  },
+  "scene": {
+    "elements": [
+      {
+        "type": "line",
+        "x1": 150,
+        "y1": 210,
+        "x2": 1050,
+        "y2": 210,
+        "stroke": "#1D4ED8",
+        "stroke_width": 6
+      },
+      {
+        "type": "circle",
+        "cx": 250,
+        "cy": 210,
+        "r": 28,
+        "fill": "#1D4ED8",
+        "stroke": "#FFFFFF",
+        "stroke_width": 4
+      },
+      {
+        "type": "circle",
+        "cx": 600,
+        "cy": 210,
+        "r": 28,
+        "fill": "#1D4ED8",
+        "stroke": "#FFFFFF",
+        "stroke_width": 4
+      },
+      {
+        "type": "circle",
+        "cx": 950,
+        "cy": 210,
+        "r": 28,
+        "fill": "#1D4ED8",
+        "stroke": "#FFFFFF",
+        "stroke_width": 4
+      },
+      {
+        "type": "text",
+        "x": 200,
+        "y": 140,
+        "content": "What the Deduction",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 200,
+        "y": 160,
+        "content": "Covers",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 550,
+        "y": 140,
+        "content": "The Core Eligibility",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 550,
+        "y": 160,
+        "content": "Requirements",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 900,
+        "y": 140,
+        "content": "Why This Provision",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 900,
+        "y": 160,
+        "content": "Gets Missed",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 255,
+        "content": "Taxpayers may deduct up to",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 271,
+        "content": "$10,000 in qualified interest",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 287,
+        "content": "paid during the tax year on a",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 303,
+        "content": "loan for a new passenger",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 319,
+        "content": "vehicle.",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 255,
+        "content": "There are six questions that",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 271,
+        "content": "determine whether you can claim",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 287,
+        "content": "this deduction.",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 255,
+        "content": "The tipped income and overtime",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 271,
+        "content": "exclusions are targeted at",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 287,
+        "content": "workers in specific industries.",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      }
+    ]
+  },
+  "metadata": {
+    "purpose": "visual-learning",
+    "generator": "rendit timeline"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "comparison-table",
+  "recipe_id": "expert-ai-prompts-discovery-comparison-table",
+  "source_article": "expert-ai-prompts-discovery.html",
+  "output_sha256": "4d912cb6dac93a0e02eac174136a0da979f3dadc8b497750dbec7d9da3b7f6ad",
+  "concepts": [
+    "What Mayer Brown Reports the Order Did",
+    "Why Rule 26 Framing Matters",
+    "The Stay Is Not the End of the Story",
+    "References & Sources"
+  ],
+  "content_kind": "unknown (kind override)",
+  "content_kind_source": "override"
+}

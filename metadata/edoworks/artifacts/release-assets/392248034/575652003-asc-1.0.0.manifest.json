@@ -1,0 +1,11 @@
+{
+  "artifact": "asc",
+  "version": "1.0.0",
+  "source_revision": "4508bf9c0991163b3baa2997f796e46c4c27d6b2",
+  "entrypoint": "ascclient.mjs",
+  "skill_entrypoint": "skills/ascsigning/SKILL.md",
+  "distribution": "repository-artifact",
+  "release_state": "RELEASED",
+  "dependency_policy": "node-standard-library-only",
+  "publication_approved": true
+}

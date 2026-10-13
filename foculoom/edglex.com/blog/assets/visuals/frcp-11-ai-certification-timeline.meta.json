@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "timeline",
+  "recipe_id": "frcp-11-ai-certification-timeline",
+  "source_article": "frcp-11-ai-certification.html",
+  "output_sha256": "77bcebef25b36d32452acc19f676a0d9b7ebd8f909b1c2c408be15b1e3d84d64",
+  "concepts": [
+    "The Certification: FRCP 11(b)(2)",
+    "What the Inquiry Requires for AI-Generated Research",
+    "ABA Formal Opinion 512: The Competence Framework",
+    "The Asymmetry AI Introduces",
+    "What This Means for Legal AI Design"
+  ],
+  "content_kind": "legal-deadline / statutory-change",
+  "content_kind_source": "meta"
+}

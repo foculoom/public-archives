@@ -1,0 +1,180 @@
+{
+  "schema_version": "0.8.34",
+  "recipe_id": "schedule-1a-how-to-claim-timeline",
+  "kind": "timeline",
+  "canvas": {
+    "width_px": 1200,
+    "height_px": 421,
+    "background_color": "#FFFFFF"
+  },
+  "scene": {
+    "elements": [
+      {
+        "type": "line",
+        "x1": 150,
+        "y1": 210,
+        "x2": 1050,
+        "y2": 210,
+        "stroke": "#1D4ED8",
+        "stroke_width": 6
+      },
+      {
+        "type": "circle",
+        "cx": 250,
+        "cy": 210,
+        "r": 28,
+        "fill": "#1D4ED8",
+        "stroke": "#FFFFFF",
+        "stroke_width": 4
+      },
+      {
+        "type": "circle",
+        "cx": 600,
+        "cy": 210,
+        "r": 28,
+        "fill": "#1D4ED8",
+        "stroke": "#FFFFFF",
+        "stroke_width": 4
+      },
+      {
+        "type": "circle",
+        "cx": 950,
+        "cy": 210,
+        "r": 28,
+        "fill": "#1D4ED8",
+        "stroke": "#FFFFFF",
+        "stroke_width": 4
+      },
+      {
+        "type": "text",
+        "x": 200,
+        "y": 140,
+        "content": "What Schedule 1-A Is",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 550,
+        "y": 140,
+        "content": "The Four Deductions",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 550,
+        "y": 160,
+        "content": "and What Each Part\u2026",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 900,
+        "y": 140,
+        "content": "The Documentation",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 900,
+        "y": 160,
+        "content": "Problem",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 255,
+        "content": "Schedule 1-A is a new attachment",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 271,
+        "content": "to Form 1040.",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 255,
+        "content": "Workers in tip-eligible",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 271,
+        "content": "occupations may deduct up to",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 287,
+        "content": "$25,000 of qualified tip income",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 303,
+        "content": "per return \u2014 the same ceiling",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 255,
+        "content": "Each deduction requires",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 271,
+        "content": "documentation you may not have",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 287,
+        "content": "already assembled.",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      }
+    ]
+  },
+  "metadata": {
+    "purpose": "visual-learning",
+    "generator": "rendit timeline"
+  }
+}

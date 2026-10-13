@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "comparison-table",
+  "recipe_id": "the-gaps-in-the-law-comparison-table",
+  "source_article": "the-gaps-in-the-law.html",
+  "output_sha256": "e4baf0ae527b50087b0f7a0b159c75214d2534cc9645b71f344a0a17d1aef61a",
+  "concepts": [
+    "The Three Categories of Legal Gaps",
+    "Four Gaps That Shaped Recent History",
+    "What a Legal Gap Is \u2014 and Isn't",
+    "Why Gaps Exist",
+    "Why Finding Gaps Matters"
+  ],
+  "content_kind": "regulatory-gap / compliance-gap",
+  "content_kind_source": "meta"
+}

@@ -1,0 +1,225 @@
+{
+  "schema_version": "0.8.34",
+  "recipe_id": "frcp-11-ai-certification-timeline",
+  "kind": "timeline",
+  "canvas": {
+    "width_px": 1200,
+    "height_px": 421,
+    "background_color": "#FFFFFF"
+  },
+  "scene": {
+    "elements": [
+      {
+        "type": "line",
+        "x1": 150,
+        "y1": 210,
+        "x2": 1050,
+        "y2": 210,
+        "stroke": "#1D4ED8",
+        "stroke_width": 6
+      },
+      {
+        "type": "circle",
+        "cx": 250,
+        "cy": 210,
+        "r": 28,
+        "fill": "#1D4ED8",
+        "stroke": "#FFFFFF",
+        "stroke_width": 4
+      },
+      {
+        "type": "circle",
+        "cx": 600,
+        "cy": 210,
+        "r": 28,
+        "fill": "#1D4ED8",
+        "stroke": "#FFFFFF",
+        "stroke_width": 4
+      },
+      {
+        "type": "circle",
+        "cx": 950,
+        "cy": 210,
+        "r": 28,
+        "fill": "#1D4ED8",
+        "stroke": "#FFFFFF",
+        "stroke_width": 4
+      },
+      {
+        "type": "text",
+        "x": 200,
+        "y": 140,
+        "content": "The Certification:",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 200,
+        "y": 160,
+        "content": "FRCP 11(b)(2)",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 550,
+        "y": 140,
+        "content": "What the Inquiry",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 550,
+        "y": 160,
+        "content": "Requires for\u2026",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 900,
+        "y": 140,
+        "content": "ABA Formal Opinion",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 900,
+        "y": 160,
+        "content": "512: The Competence\u2026",
+        "font_size": 18,
+        "fill": "#1D4ED8",
+        "font_weight": 700
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 255,
+        "content": "Federal Rule of Civil Procedure",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 271,
+        "content": "11(b) provides that by",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 287,
+        "content": "presenting a signed pleading,",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 303,
+        "content": "written motion, or other paper",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 180,
+        "y": 319,
+        "content": "to",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 255,
+        "content": "Courts have not issued a uniform",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 271,
+        "content": "standard for what a \"reasonable",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 287,
+        "content": "inquiry\" means specifically in",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 530,
+        "y": 303,
+        "content": "the AI-assisted context.",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 255,
+        "content": "ABA Formal Opinion 512 (July 29,",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 271,
+        "content": "2024), issued by the ABA",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 287,
+        "content": "Standing Committee on Ethics and",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      },
+      {
+        "type": "text",
+        "x": 880,
+        "y": 303,
+        "content": "Professional Responsibility",
+        "font_size": 13,
+        "fill": "#475569",
+        "font_weight": 400
+      }
+    ]
+  },
+  "metadata": {
+    "purpose": "visual-learning",
+    "generator": "rendit timeline"
+  }
+}

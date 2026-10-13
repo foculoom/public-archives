@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="421" viewBox="0 0 1200 421">
+  <rect x="0" y="0" width="1200" height="421" fill="#FFFFFF"/>
+  <rect x="400" y="60" width="400" height="80" fill="#F8FAFC" stroke="#1D4ED8" stroke-width="3" rx="8" opacity="1.0"/>
+  <text x="420" y="95" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">The Work Product</text>
+  <text x="420" y="115" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">Framework: FRCP…</text>
+  <text x="420" y="120" text-anchor="start" font-family="sans-serif" font-size="12" fill="#475569" font-weight="400">Federal Rule of Civil Procedure</text>
+  <text x="420" y="134" text-anchor="start" font-family="sans-serif" font-size="12" fill="#475569" font-weight="400">26(b)(3)(A) protects "documents</text>
+  <text x="420" y="148" text-anchor="start" font-family="sans-serif" font-size="12" fill="#475569" font-weight="400">and tangible things that are</text>
+  <text x="420" y="162" text-anchor="start" font-family="sans-serif" font-size="12" fill="#475569" font-weight="400">prepared in anticipation</text>
+  <rect x="380" y="160" width="400" height="80" fill="#F1F5F9" stroke="#1D4ED8" stroke-width="3" rx="8" opacity="1.0"/>
+  <text x="400" y="195" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">Do AI Prompts Qualify</text>
+  <text x="400" y="215" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">as Work Product?</text>
+  <text x="400" y="220" text-anchor="start" font-family="sans-serif" font-size="12" fill="#475569" font-weight="400">An attorney's AI prompts — the</text>
+  <text x="400" y="234" text-anchor="start" font-family="sans-serif" font-size="12" fill="#475569" font-weight="400">queries, instructions, and</text>
+  <text x="400" y="248" text-anchor="start" font-family="sans-serif" font-size="12" fill="#475569" font-weight="400">context that the attorney types</text>
+  <text x="400" y="262" text-anchor="start" font-family="sans-serif" font-size="12" fill="#475569" font-weight="400">into an AI tool — are likely</text>
+  <rect x="360" y="260" width="400" height="80" fill="#E2E8F0" stroke="#1D4ED8" stroke-width="3" rx="8" opacity="1.0"/>
+  <text x="380" y="295" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">Do AI Outputs Qualify</text>
+  <text x="380" y="315" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">as Work Product?</text>
+  <text x="380" y="320" text-anchor="start" font-family="sans-serif" font-size="12" fill="#475569" font-weight="400">AI-generated outputs — case</text>
+  <text x="380" y="334" text-anchor="start" font-family="sans-serif" font-size="12" fill="#475569" font-weight="400">summaries, draft arguments,</text>
+  <text x="380" y="348" text-anchor="start" font-family="sans-serif" font-size="12" fill="#475569" font-weight="400">factual analyses — are more</text>
+  <text x="380" y="362" text-anchor="start" font-family="sans-serif" font-size="12" fill="#475569" font-weight="400">complicated.</text>
+</svg>

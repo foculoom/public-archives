@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="421" viewBox="0 0 1200 421">
+  <rect x="0" y="0" width="1200" height="421" fill="#FFFFFF"/>
+  <line x1="150" y1="210" x2="1050" y2="210" stroke="#1D4ED8" stroke-width="6" opacity="1.0"/>
+  <circle cx="250" cy="210" r="28" fill="#1D4ED8" stroke="#FFFFFF" stroke-width="4" opacity="1.0"/>
+  <circle cx="600" cy="210" r="28" fill="#1D4ED8" stroke="#FFFFFF" stroke-width="4" opacity="1.0"/>
+  <circle cx="950" cy="210" r="28" fill="#1D4ED8" stroke="#FFFFFF" stroke-width="4" opacity="1.0"/>
+  <text x="200" y="140" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">The Standard Deduction</text>
+  <text x="200" y="160" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">for 2026</text>
+  <text x="550" y="140" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">Other Key Figures for</text>
+  <text x="550" y="160" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">2026 From Revenue…</text>
+  <text x="900" y="140" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">What the Marginal Rate</text>
+  <text x="900" y="160" text-anchor="start" font-family="sans-serif" font-size="18" fill="#1D4ED8" font-weight="700">Thresholds Mean</text>
+  <text x="180" y="255" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">These figures apply to returns</text>
+  <text x="180" y="271" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">for the 2026 tax year (generally</text>
+  <text x="180" y="287" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">filed in 2027).</text>
+  <text x="530" y="255" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">The standard deduction is the</text>
+  <text x="530" y="271" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">most widely cited figure, but it</text>
+  <text x="530" y="287" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">is not the only one that moves.</text>
+  <text x="880" y="255" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">The marginal tax rate brackets</text>
+  <text x="880" y="271" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">are also inflation-adjusted for</text>
+  <text x="880" y="287" text-anchor="start" font-family="sans-serif" font-size="13" fill="#475569" font-weight="400">2026.</text>
+</svg>

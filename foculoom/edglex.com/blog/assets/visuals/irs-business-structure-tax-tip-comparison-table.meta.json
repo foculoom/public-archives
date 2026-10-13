@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "generator": "rendit",
+  "kind": "comparison-table",
+  "recipe_id": "irs-business-structure-tax-tip-comparison-table",
+  "source_article": "irs-business-structure-tax-tip.html",
+  "output_sha256": "d6acd362920965aed0b58daea2b52d1d52bfaa761da0c76dec431c0312256b3e",
+  "concepts": [
+    "What the IRS Actually Said",
+    "The Hidden Cost: Administrative Drift",
+    "How to Apply This Right Now",
+    "References & Sources"
+  ],
+  "content_kind": "unknown (kind override)",
+  "content_kind_source": "override"
+}

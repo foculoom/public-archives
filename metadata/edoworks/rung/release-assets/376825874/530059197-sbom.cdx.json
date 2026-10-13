@@ -1,0 +1,61 @@
+{
+  "bomFormat": "CycloneDX",
+  "components": [
+    {
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "34b9275c1f5718cbbf1fa3563aad61a16ac890efdf68689368e708b7237cf25e"
+        }
+      ],
+      "name": "packages/rung_audit-0.3.1-py3-none-any.whl",
+      "type": "file"
+    },
+    {
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "0745ee44867cac684e3fbbc2e20d9b0b8fea456a88046be20988cdc4da6fd9bb"
+        }
+      ],
+      "name": "packages/rung_audit-0.3.1.tar.gz",
+      "type": "file"
+    },
+    {
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "e9bb7af304b814409c597b48623154ad58653ffca419aa65ce24ee21eb00b7e7"
+        }
+      ],
+      "name": "release-notes.md",
+      "type": "file"
+    },
+    {
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "b3fea1ebb71560d16bdebb9348833b3d2be63fb1f1d50eb4ca3a5e648fbd3dae"
+        }
+      ],
+      "name": "rung-cli.py",
+      "type": "file"
+    }
+  ],
+  "metadata": {
+    "component": {
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ],
+      "name": "rung-audit",
+      "type": "application",
+      "version": "0.3.1"
+    }
+  },
+  "specVersion": "1.5",
+  "version": 1
+}
