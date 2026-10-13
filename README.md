@@ -1,6 +1,6 @@
 # Public repository archive
 
-This repository preserves browsable snapshots and complete Git bundles for nine formerly public edoworks and foculoom repositories. Seven originals were deleted after recovery checks. `edoworks/delivery-scorecard` and `foculoom/edglex.com` remain online because their Pages sites need migration. The private [foculoom/archives](https://github.com/foculoom/archives) remains the primary archive for all 81 sources.
+This repository preserves browsable snapshots and complete Git bundles for nine formerly public edoworks and foculoom repositories. Eight originals were deleted after recovery checks. `edoworks/delivery-scorecard` remains online because its Pages site connects to the live Couch Clash web app. The private [foculoom/archives](https://github.com/foculoom/archives) remains the primary archive for all 81 sources.
 
 - Browse `edoworks/<repo>/` or `foculoom/<repo>/` for the original default-branch snapshot.
 - `backups/<org>/<repo>.bundle` stores the original branches, tags, pull refs, and history. Restore with `git clone backups/<org>/<repo>.bundle <target>`.
